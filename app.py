@@ -10,7 +10,7 @@ app = dash.Dash(__name__)
 server = app.server
 
 markdown_text = """
-## WBL Index
+# WBL Index
 Es un índice que valora las leyes y regulaciones de 190 países y cómo afectan a las mujeres.
 Contiene varios indicadores que valoran la igualdad de estas leyes entre hombres y mujeres.
 """
@@ -144,8 +144,11 @@ indicador_radio = html.Div(
     )
 
 panel_izq = html.Div([
+    html.Br(),
     check_gobiernos,
+    html.Br(),
     check_incoming,
+    html.Br(),
     indicador_radio
     ],style={'width': '30%', 
              'display': 'inline-block',
@@ -154,7 +157,7 @@ panel_izq = html.Div([
 )
 panel_der = html.Div([
     dcc.Graph(id="choropleth")
-    ],style={'width': '68%', 'display': 'inline-block'}
+    ],style={'width': '68%', 'height':'95%', 'display': 'inline-block'}
 )
 
 app.layout = html.Div([
@@ -199,7 +202,7 @@ def multi_output(gobiernos, income, indicador):
         showland=True, landcolor="#CCCCCC",
         lataxis={"range":[90,-55]}
     )
-    fig.update_layout(height=800,
+    fig.update_layout(#height=800,
                       margin={"r": 0, "t": 20, "l": 20, "b": 0},
                       title={'xanchor':'center', 'x':0.5,
                              'yanchor':'bottom', 'y':0.2,
