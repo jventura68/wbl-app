@@ -5,7 +5,7 @@ from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
 
-df = pd.read_excel('data/wbl_regime.csv')
+df = pd.read_csv('data/wbl_regime.csv')
 
 app = dash.Dash(__name__)
 
