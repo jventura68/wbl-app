@@ -7,6 +7,7 @@ import pandas as pd
 df = pd.read_csv('data/wbl_regime.csv')
 
 app = dash.Dash(__name__)
+server = app.server
 
 app.layout = html.Div([
     html.P("Gobiernos:"),
