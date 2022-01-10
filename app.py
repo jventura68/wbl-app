@@ -3,10 +3,27 @@ from dash import dcc, html
 from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
-import json
+import numpy as np
+from math import log, floor
+
+
+def human_format(number, decimals=0):
+    if np.isnan(number):
+        return "-"
+    units = ['', 'm', 'M', 'mM', 'B', 'P']
+    k = 1000.0
+    magnitude = int(floor(log(number, k)))
+    number = round(number / k**magnitude, decimals)
+    if int(number)==number:
+        return '%.0f%s' % (number, units[magnitude])
+    else:
+        return '%.2f%s' % (number, units[magnitude])
 
 df = pd.read_csv('data/wbl_regime.csv')
-
+df['Mujeres'] = df.mujeres.apply(human_format)
+df['Hombres'] = df.hombres.apply(human_format)
+df.rename({"reportyr":"Año"}, axis=1, inplace=True)
+df = df[df["Año"]<2021]
 
 # Read comments on indicators
 def get_ind_comments():
@@ -143,15 +160,17 @@ def multi_output(gobiernos, income, indicador):
 
     if len(income)<4:
         df_fil = df_fil.loc[df.Income.isin(income)]
-
+#WBL INDEX,MOBILITY,PAY,WORKPLACE,MARRIAGE,PARENTHOOD,ENTREPRENEURSHIP,ASSETS,PENSION,regime_elected,Income,region_income,region_elected,income_elected,hombres,mujeres
+    df_fil.sort_values("Año", inplace=True)
     fig = px.choropleth(df_fil,
         locations="iso3c", 
         color=indicador,
         hover_name="economy",
-        animation_frame="reportyr",
+        hover_data=["Hombres", "Mujeres"],
+        animation_frame="Año",
         color_continuous_scale=['red', 'yellow', 'green'],
         range_color=[0, 100],
-        title=str(df_fil.reportyr.min())
+        title=str(df_fil["Año"].min())
     )
     fig.update_geos(
         fitbounds="locations",
@@ -189,7 +208,7 @@ def multi_output(gobiernos, income, indicador):
                       updatemenus=updatemenus
                       )
 
-    years = df_fil.reportyr.unique()
+    years = df_fil['Año'].unique()
     for i, frame in enumerate(fig.frames):
         frame.layout.title = str(years[i])
     
