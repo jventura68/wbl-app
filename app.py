@@ -3,18 +3,38 @@ from dash import dcc, html
 from dash.dependencies import Input, Output
 import plotly.express as px
 import pandas as pd
+import json
 
 df = pd.read_csv('data/wbl_regime.csv')
+
+
+# Read comments on indicators
+def get_ind_comments():
+    with open('data/indicadores.md') as f:
+        data = f.read()
+    for i, ind in enumerate(data.split('### ')):
+        if i == 0:
+            continue
+        first_newline = ind.find('\n')+1
+        key = ind[:first_newline].strip()
+        value = ind[first_newline:-1]
+        yield (key,value)
+
+
+indicadores_text = {key:value for key,value in get_ind_comments()}
 
 app = dash.Dash(__name__)
 server = app.server
 
 markdown_text = """
 # WBL Index
-Es un índice que valora las leyes y regulaciones de 190 países y cómo afectan a las mujeres.
-Contiene varios indicadores que valoran el trato igualitario entre hombres y mujeres.
+[**(Women, Business and the Law)**](https://wbl.worldbank.org/en/wbl). 
+Este índice valora  entre 0 y 100 el trato igualitario que recibe
+la mujer en las leyes y regulaciones de los 190 países analizados. 
+Incluye 9 indicadores que valoran distintos aspectos que afectan a 
+la igualdad entre hombres y mujeres
 """
-
+box_style = {"border": "1px solid #000", "borderRadius":5}
 
 check_gobiernos = html.Div([
             html.P("Gobiernos:"),
@@ -26,7 +46,7 @@ check_gobiernos = html.Div([
                 ],
                 value=['D', 'N']
             )
-            ], style={"border": "1px solid #000"}
+            ], style=box_style
         )
 
 check_incoming = html.Div([
@@ -41,115 +61,53 @@ check_incoming = html.Div([
                 ],
                 value=['Low', 'Low-Middle', 'Middle-High', 'High']
                 )
-            ], style={"border": "1px solid #000"}
+            ], style=box_style
         )
 
 indicadores = [
                     {'label': 'General', 'value':'WBL INDEX'},
-                    {'label': 'Lugar de Trabajo', 'value':'WORKPLACE'},
-                    {'label': 'Pagos', 'value':'PAY'},
+                    {'label': 'Laboral', 'value':'WORKPLACE'},
+                    {'label': 'Remuneración', 'value':'PAY'},
                     {'label': 'Movilidad', 'value':'MOBILITY'},
                     {'label': 'Pensiones', 'value':'PENSION'},
                     {'label': 'Matrimonio', 'value':'MARRIAGE'},
-                    {'label': 'Posesiones', 'value':'ASSETS'},
+                    {'label': 'Bienes', 'value':'ASSETS'},
                     {'label': 'Maternidad', 'value':'PARENTHOOD'},
                     {'label': 'Emprendimiento', 'value':'ENTREPRENEURSHIP'},
                 ]
-indicadores_text = {
-    'WBL INDEX': """
-    __Es la media de las puntuaciones obtenidas en los índices de:__
-    * Lugar de trabajo
-    * Pagos
-    * Movilidad
-    * Pensiones
-    * Matrimonio
-    * Posesiones
-    * Maternidad
-    * Emprendimiento
-    """,
-    'WORKPLACE': """
-    * ¿Puede una mujer .... de igual forma que un hombre?
-      * Conseguir trabajo
-      * Acceso por ley a los trabajos
-    * ¿Existen leyes contra el acoso sexual en el trabajo?
-    * ¿Se castiga el acoso sexual en el trabajo?
-    """,
-    'PAY': """
-    * ¿La ley obliga a remunerar por igual a mujeres y hombres?
-    * ¿Puede una mujer .... de igual forma que un hombre?
-      * Trabajar por la noche
-      * Conseguir trabajos considerados peligrosos
-      * Trabajar en la industria
-    """,
-    'MOBILITY': """
-    * ¿Puede una mujer realizar estas operaciones igual que un hombre?  
-      * Obtener un pasaporte
-      * Viajar al extranjero
-      * Salir de su hogar
-      * Elegir dónde vivir
-    """,
-    'PENSION': """
-    * ¿Son iguales para mujeres y hombres:
-      * La edad de jubilación para pensión total
-      * La edad de jubilación para pensión parcial
-    * ¿La edad de jubilación igual por ley para hombre y mujeres?
-    * ¿Computan como beneficios para la pensión el cuidado de hijos?
-    """,
-    'MARRIAGE': """
-    * Por ley, ¿la mujer casada debe obeceder al marido?
-    * ¿Hay leyes para la violencia doméstica?
-    * ¿Las mujeres están en las mismas condiciones que un hombre para...?:
-      * Ser cabeza de familia
-      * Pedir el divorcio
-      * Volver a casarse
-    """,
-    'ASSETS': """
-    * ¿Tienen las mujeres y hombres los mismos derechos para ...?:
-      * Poseer bienes inmuebles
-      * Heredar de sus padres
-      * Heredar por viudedad
-      * Gestionar los bienes gananciales del matrimonio
-    * ¿Reconocen las leyes el valor del trabajo en el hogar?
-    """,
-    'PARENTHOOD': """
-    * ¿Existen al menos 14 semanas de baja remuneradas?
-    * _Se incluye valoración tiempo de baja para el padre y la madre_
-    * El gobierno es responsable del 100% de la baja
-    * ¿Los padres tienen baja remunerada?
-    * ¿Está prohibido el despido de trabajadoras embarazadas?
-    """,
-    'ENTREPRENEURSHIP': """
-    * ¿Puede una mujer realizar estas operaciones igual que un hombre?  
-      * Firmar un contrato
-      * Crear una empresa
-      * Abrir una cuenta bancaria
-      * Acceso al crédito
-    """,
-}
 
-indicador_radio = html.Div(
-      [
-        html.P("Indicador:"),
+box_style_small = box_style
+box_style_small["font-size"]="10px"
+panel_indicadores = html.Div([
+    html.P("Indicador:"),
+    html.Div([
         dcc.RadioItems(
             id='indicador',
             options=indicadores,
-            value=indicadores[0]["value"]
-            ),
+            value=indicadores[0]["value"],
+            labelStyle={'display': 'block'}
+            )
+    ],style={'width': '30%', 'display': 'inline-block'}),
+    html.Div([
         dcc.Markdown(id='indicador_comment', 
-                     style={"background-color": "#EEEEEE", 
+                     style={"background-color": "#EEEEEE",
+                            "size":"10px",
                             "color":"#777777",
                             "margin": "10px"})
-      ], 
-      style={"border": "1px solid #000"}
-    )
+    ],style={'width': '68%', 
+             'display': 'inline-block',
+             'vertical-align': 'top'
+             }),
+],style=box_style_small)
 
 panel_izq = html.Div([
+    dcc.Markdown(children=markdown_text),
     html.Br(),
     check_gobiernos,
     html.Br(),
     check_incoming,
     html.Br(),
-    indicador_radio
+    panel_indicadores
     ],style={'width': '30%', 
              'display': 'inline-block',
              'vertical-align': 'top'
@@ -161,7 +119,6 @@ panel_der = html.Div([
 )
 
 app.layout = html.Div([
-    dcc.Markdown(children=markdown_text),
     panel_izq,
     panel_der
     ])
@@ -187,31 +144,50 @@ def multi_output(gobiernos, income, indicador):
     if len(income)<4:
         df_fil = df_fil.loc[df.Income.isin(income)]
 
-    fig = px.choropleth(df_fil, 
-                    locations="iso3c", 
-                    color=indicador,
-                    hover_name="economy",
-                    animation_frame="reportyr",
-                    color_continuous_scale=['red', 'yellow', 'green'],
-                    range_color=[0, 100]
+    fig = px.choropleth(df_fil,
+        locations="iso3c", 
+        color=indicador,
+        hover_name="economy",
+        animation_frame="reportyr",
+        color_continuous_scale=['red', 'yellow', 'green'],
+        range_color=[0, 100],
+        title=str(df_fil.reportyr.min())
     )
     fig.update_geos(
-        projection_type="natural earth",
+        fitbounds="locations",
+        projection_type="miller",
         visible=False, 
         showcountries=True, countrycolor="black",
         showland=True, landcolor="#CCCCCC",
-        lataxis={"range":[90,-55]}
+        #lataxis={"range":[90,30]}
     )
-    fig.update_layout(height=750,
-                      margin={"r": 0, "t": 20, "l": 20, "b": 0},
-                      title={'xanchor':'center', 'x':0.5,
-                             'yanchor':'bottom', 'y':0.2,
-                             'font':{
-                                 'color':'#DDDDDD',
-                                 'family':'Balto',
-                                 'size':90
-                             }
-                      })
+    sliders=[dict(
+        currentvalue={"prefix": "Año: "},
+        pad={'t':0}
+        # len=0.3,
+        # y=1.5, yanchor="bottom",
+        # x=0.4, xanchor="left"
+    )]
+
+    updatemenus=[dict(
+        pad={'t':0}
+    )]
+
+    title = dict(
+        xanchor='center', x=0.15,
+        yanchor='bottom', y=0.40,
+        font=dict(
+            color='#DDDDDD',
+            family='Balto',
+            size=60
+        )
+    )
+    fig.update_layout(height=600,
+                      margin={"r": 0, "t": 0, "l": 0, "b": 0},
+                      title=title,
+                      sliders=sliders,
+                      updatemenus=updatemenus
+                      )
 
     years = df_fil.reportyr.unique()
     for i, frame in enumerate(fig.frames):
