@@ -45,12 +45,35 @@ app.title = "WBL Index - José Ventura"
 server = app.server
 
 felicidad_text="""
-# Índice de felicidad
+# Práctica de visualización de datos
+
+## Aplicación y código fuente
+* __url publicación app__: https://wbl-app.herokuapp.com/
+* __repositorio github__: https://github.com/jventura68/wbl-app
+
+## Herramientas de visualización utilizadas
+
+* **Flourish**  
+  Se utilizó en las anteriores prácticas y en las primeras visualizaciones
+  realizadas para esta, finalmente se abandona, es una buena herramienta
+  para un primer esbozo, pero las posibilidades de personalización son pocas
+  y la utilización de los gráficos en páginas web no es sencilla.
+* **Plotly**  
+  Elaboración de gráficos y mapas interactivos. Requiere inversión de tiempo
+  en los primeros momentos, pero los resultados, la personalización e integración
+  son perfectas.
+* **Dash**  
+  Herramienta elegida para la construcción del cuadro de mando de la aplicación.
+  Permite una gran configuración de los componentes y tiene una integración perfecta
+  con Plotly
+
+# Investigación y visualización de datos
+## Índice de felicidad
 
 ### ¿Qué preguntas nos hacemos?
 Después de un periodo de noticias y situaciones apocalípticas, parece que 
 una buena forma de romper la tendencia negativa es analizar la felicidad 
-y cómo ha cambiado el mundo en los últimos. El fín último era contestar a 
+y cómo ha cambiado el mundo en los últimos años. El fín último era contestar a 
 la pregunta: **¿El mundo puede ser feliz si la mitad de la población (Mujeres) 
 no tienen libertad?**
 
@@ -69,7 +92,7 @@ felicidad (expuesto en la [PEC3](https://public.flourish.studio/story/1067848/))
 con la Renta per cápita. A continuación mostramos los dos gráficos:
 """
 header_text = """
-# WBL Index
+## WBL Index
 [**(Women, Business and the Law)**](https://wbl.worldbank.org/en/wbl). 
 Este índice valora  entre 0 y 100 el trato igualitario que recibe
 la mujer en las leyes y regulaciones de los 190 países analizados. 
@@ -145,8 +168,8 @@ indicadores = [
 box_style_small = box_style
 box_style_small["font-size"]="10px"
 panel_indicadores = html.Div([
-    html.P("Indicador:"),
     html.Div([
+        html.P("Indicador:"),
         dcc.RadioItems(
             id='indicador',
             options=indicadores,
@@ -162,9 +185,10 @@ panel_indicadores = html.Div([
                             "margin": "10px"})
     ],style={'width': '68%', 
              'display': 'inline-block',
-             'vertical-align': 'top'
+             'vertical-align': 'top',
+             'font-size':'12px',
              }),
-],style=box_style_small)
+],style=box_style)
 
 panel_izq = html.Div([
     dcc.Markdown(children=header_text),
@@ -184,19 +208,6 @@ panel_der = html.Div([
     dcc.Graph(id="choropleth")
     ],style={'width': '68%', 'display': 'inline-block'}
 )
-
-def div_chart(id):
-    code = """
-    <iframe src='https://flo.uri.sh/visualisation/{}/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:100%;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/{}/?utm_source=embed&utm_campaign=visualisation/{}' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:300px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>        """.format(id, id, id)
-    return html.Div([html.Iframe(srcDoc=code)])
-
-def embed_chart(id):
-    return html.Div([
-        html.Embed(src="https://public.flourish.studio/visualisation/8138194/",
-                      className="flourish-embed-iframe",
-                      frameborder='0'
-                      )
-    ],style={'width': '68%', 'display': 'inline-block'})
     
 app.layout = html.Div([
     dcc.Markdown(children=felicidad_text),
@@ -214,6 +225,7 @@ def graph_corr (df=felicidad, x="Life ladder",
     return px.scatter(
         df, y=y, x=x, 
         title="Gráfico de dispersión",
+        hover_name = "Country",
         labels={x: xlabel,
                 y: ylabel},
         animation_frame="Year", #color="Region",
