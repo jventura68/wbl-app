@@ -1,0 +1,1934 @@
+Country,Region,Year,GDPpc,Life ladder,WBL index
+Afghanistan,South Asia,2008,415.0,3.7235898971557617,28.75
+Afghanistan,South Asia,2009,492.0,4.401778221130371,28.75
+Afghanistan,South Asia,2010,547.0,4.758380889892578,28.75
+Afghanistan,South Asia,2011,533.0,3.831719160079956,28.75
+Afghanistan,South Asia,2012,580.0,3.782937526702881,28.75
+Afghanistan,South Asia,2013,592.0,3.5721004009246826,28.75
+Afghanistan,South Asia,2014,588.0,3.1308956146240234,28.75
+Afghanistan,South Asia,2015,578.0,3.9828546047210693,28.75
+Afghanistan,South Asia,2016,575.0,4.220168590545654,28.75
+Afghanistan,South Asia,2017,576.0,2.6617181301116943,38.125
+Afghanistan,South Asia,2018,569.0,2.694303274154663,38.125
+Afghanistan,South Asia,2019,578.0,2.375091791152954,38.125
+Albania,Europe & Central Asia,2007,3050.0,4.634251594543457,80.0
+Albania,Europe & Central Asia,2009,3430.0,5.485469818115234,82.5
+Albania,Europe & Central Asia,2010,3580.0,5.268936634063721,82.5
+Albania,Europe & Central Asia,2011,3680.0,5.867421627044678,85.625
+Albania,Europe & Central Asia,2012,3740.0,5.510124206542969,85.625
+Albania,Europe & Central Asia,2013,3780.0,4.550647735595703,85.625
+Albania,Europe & Central Asia,2014,3860.0,4.81376314163208,85.625
+Albania,Europe & Central Asia,2015,3950.0,4.6066508293151855,85.625
+Albania,Europe & Central Asia,2016,4090.0,4.511100769042969,85.625
+Albania,Europe & Central Asia,2017,4250.0,4.639548301696777,91.25
+Albania,Europe & Central Asia,2018,4430.0,5.0044026374816895,91.25
+Albania,Europe & Central Asia,2019,4550.0,4.9953179359436035,91.25
+Albania,Europe & Central Asia,2020,4420.0,5.364909648895264,91.25
+Algeria,Middle East & North Africa,2010,3920.0,5.463566780090332,55.0
+Algeria,Middle East & North Africa,2011,3960.0,5.31719446182251,55.0
+Algeria,Middle East & North Africa,2012,4010.0,5.60459566116333,55.0
+Algeria,Middle East & North Africa,2014,4110.0,6.354898452758789,55.0
+Algeria,Middle East & North Africa,2016,4220.0,5.340853691101074,55.0
+Algeria,Middle East & North Africa,2017,4190.0,5.248912334442139,57.5
+Algeria,Middle East & North Africa,2018,4160.0,5.043086051940918,57.5
+Algeria,Middle East & North Africa,2019,4110.0,4.744627475738525,57.5
+Angola,Sub-Saharan Africa,2011,3980.0,5.589000701904297,62.5
+Angola,Sub-Saharan Africa,2012,4170.0,4.360249996185303,65.0
+Angola,Sub-Saharan Africa,2013,4220.0,3.9371068477630615,70.625
+Angola,Sub-Saharan Africa,2014,4270.0,3.7948379516601562,70.625
+Argentina,Latin America & Caribbean,2006,12000.0,6.312925338745117,70.0
+Argentina,Latin America & Caribbean,2007,12900.0,6.073158264160156,70.0
+Argentina,Latin America & Caribbean,2008,13300.0,5.961034297943115,70.0
+Argentina,Latin America & Caribbean,2009,12400.0,6.42413330078125,70.0
+Argentina,Latin America & Caribbean,2010,13600.0,6.441067218780518,73.125
+Argentina,Latin America & Caribbean,2011,14200.0,6.775805473327637,73.125
+Argentina,Latin America & Caribbean,2012,13900.0,6.468387126922607,73.125
+Argentina,Latin America & Caribbean,2013,14100.0,6.5822601318359375,73.125
+Argentina,Latin America & Caribbean,2014,13600.0,6.671114444732666,73.125
+Argentina,Latin America & Caribbean,2015,13800.0,6.6971306800842285,73.125
+Argentina,Latin America & Caribbean,2016,13400.0,6.427221298217773,73.125
+Argentina,Latin America & Caribbean,2017,13600.0,6.039330005645752,73.125
+Argentina,Latin America & Caribbean,2018,13100.0,5.792796611785889,73.125
+Argentina,Latin America & Caribbean,2019,12700.0,6.0855607986450195,76.25
+Argentina,Latin America & Caribbean,2020,11300.0,5.900567054748535,76.25
+Armenia,Europe & Central Asia,2006,2700.0,4.289310932159424,76.875
+Armenia,Europe & Central Asia,2007,3090.0,4.8815155029296875,76.875
+Armenia,Europe & Central Asia,2008,3340.0,4.65197229385376,76.875
+Armenia,Europe & Central Asia,2009,2880.0,4.177581787109375,76.875
+Armenia,Europe & Central Asia,2010,2960.0,4.36781120300293,76.875
+Armenia,Europe & Central Asia,2011,3100.0,4.260491371154785,76.875
+Armenia,Europe & Central Asia,2012,3310.0,4.319711685180664,80.0
+Armenia,Europe & Central Asia,2013,3410.0,4.277191162109375,80.0
+Armenia,Europe & Central Asia,2014,3510.0,4.453083038330078,80.0
+Armenia,Europe & Central Asia,2015,3610.0,4.3483195304870605,80.0
+Armenia,Europe & Central Asia,2016,3600.0,4.325471878051758,80.0
+Armenia,Europe & Central Asia,2017,3860.0,4.287736415863037,80.0
+Armenia,Europe & Central Asia,2018,4050.0,5.062448501586914,80.0
+Armenia,Europe & Central Asia,2019,4350.0,5.488086700439453,82.5
+Australia,High income: OECD,2005,50300.0,7.340688228607178,81.25
+Australia,High income: OECD,2007,52600.0,7.285390853881836,81.25
+Australia,High income: OECD,2008,53400.0,7.253757476806641,81.25
+Australia,High income: OECD,2010,53600.0,7.450047016143799,83.75
+Australia,High income: OECD,2011,54200.0,7.405616283416748,83.75
+Australia,High income: OECD,2012,55300.0,7.19558572769165,91.25
+Australia,High income: OECD,2013,55800.0,7.364169120788574,91.25
+Australia,High income: OECD,2014,56300.0,7.28855037689209,93.75
+Australia,High income: OECD,2015,56800.0,7.309060573577881,96.875
+Australia,High income: OECD,2016,57400.0,7.250080108642578,96.875
+Australia,High income: OECD,2017,57800.0,7.25703763961792,96.875
+Australia,High income: OECD,2018,58600.0,7.176993370056152,96.875
+Australia,High income: OECD,2019,58900.0,7.233994960784912,96.875
+Australia,High income: OECD,2020,58000.0,7.1373677253723145,96.875
+Austria,High income: OECD,2006,42500.0,7.122211456298828,85.0
+Austria,High income: OECD,2008,44400.0,7.1809539794921875,85.0
+Austria,High income: OECD,2010,43300.0,7.30267858505249,91.25
+Austria,High income: OECD,2011,44400.0,7.470512866973877,91.25
+Austria,High income: OECD,2012,44500.0,7.400688648223877,91.25
+Austria,High income: OECD,2013,44300.0,7.498802661895752,91.25
+Austria,High income: OECD,2014,44200.0,6.949999809265137,91.25
+Austria,High income: OECD,2015,44200.0,7.076447010040283,94.375
+Austria,High income: OECD,2016,44600.0,7.04807186126709,94.375
+Austria,High income: OECD,2017,45300.0,7.293727874755859,94.375
+Austria,High income: OECD,2018,46300.0,7.396001815795898,94.375
+Austria,High income: OECD,2019,46700.0,7.195361137390137,94.375
+Austria,High income: OECD,2020,43600.0,7.213489055633545,94.375
+Azerbaijan,Europe & Central Asia,2006,3560.0,4.727870941162109,66.875
+Azerbaijan,Europe & Central Asia,2007,4410.0,4.568159580230713,66.875
+Azerbaijan,Europe & Central Asia,2008,4780.0,4.8171892166137695,76.25
+Azerbaijan,Europe & Central Asia,2009,5120.0,4.57372522354126,76.25
+Azerbaijan,Europe & Central Asia,2010,5300.0,4.218610763549805,76.25
+Azerbaijan,Europe & Central Asia,2011,5150.0,4.680469512939453,76.25
+Azerbaijan,Europe & Central Asia,2012,5190.0,4.91077184677124,78.75
+Azerbaijan,Europe & Central Asia,2013,5430.0,5.481178283691406,78.75
+Azerbaijan,Europe & Central Asia,2014,5510.0,5.251530170440674,78.75
+Azerbaijan,Europe & Central Asia,2015,5500.0,5.146774768829346,78.75
+Azerbaijan,Europe & Central Asia,2016,5270.0,5.303894996643066,78.75
+Azerbaijan,Europe & Central Asia,2017,5230.0,5.152279376983643,78.75
+Azerbaijan,Europe & Central Asia,2018,5260.0,5.167995452880859,78.75
+Azerbaijan,Europe & Central Asia,2019,5350.0,5.173389434814453,78.75
+Bahrain,Middle East & North Africa,2009,21100.0,5.700523376464844,31.875
+Bahrain,Middle East & North Africa,2010,21000.0,5.936869144439697,31.875
+Bahrain,Middle East & North Africa,2011,20800.0,4.823976039886475,31.875
+Bahrain,Middle East & North Africa,2012,21200.0,5.027186870574951,31.875
+Bahrain,Middle East & North Africa,2013,22100.0,6.689711093902588,31.875
+Bahrain,Middle East & North Africa,2014,22700.0,6.165133953094482,35.0
+Bahrain,Middle East & North Africa,2015,22600.0,6.007375240325928,35.0
+Bahrain,Middle East & North Africa,2016,22600.0,6.169673442840576,35.0
+Bahrain,Middle East & North Africa,2017,22400.0,6.227320671081543,37.5
+Bahrain,Middle East & North Africa,2019,21200.0,7.098012447357178,40.0
+Bahrain,Middle East & North Africa,2020,19300.0,6.173175811767578,46.25
+Bangladesh,South Asia,2006,809.0,4.318909168243408,38.125
+Bangladesh,South Asia,2007,856.0,4.6073222160339355,38.125
+Bangladesh,South Asia,2008,897.0,5.052278518676758,43.75
+Bangladesh,South Asia,2009,932.0,5.082851409912109,43.75
+Bangladesh,South Asia,2010,973.0,4.858481407165527,46.875
+Bangladesh,South Asia,2011,1020.0,4.985649108886719,46.875
+Bangladesh,South Asia,2012,1080.0,4.7244439125061035,49.375
+Bangladesh,South Asia,2013,1130.0,4.660161018371582,49.375
+Bangladesh,South Asia,2014,1180.0,4.635564804077148,49.375
+Bangladesh,South Asia,2015,1250.0,4.633473873138428,49.375
+Bangladesh,South Asia,2016,1320.0,4.556140899658203,49.375
+Bangladesh,South Asia,2017,1400.0,4.3097710609436035,49.375
+Bangladesh,South Asia,2018,1500.0,4.4992170333862305,49.375
+Bangladesh,South Asia,2019,1600.0,5.1142168045043945,49.375
+Bangladesh,South Asia,2020,1630.0,5.27998685836792,49.375
+Belarus,Europe & Central Asia,2006,4290.0,5.657649993896484,73.125
+Belarus,Europe & Central Asia,2007,4680.0,5.616976261138916,73.125
+Belarus,Europe & Central Asia,2008,5180.0,5.463332176208496,73.125
+Belarus,Europe & Central Asia,2009,5200.0,5.564131259918213,73.125
+Belarus,Europe & Central Asia,2010,5620.0,5.525923252105713,73.125
+Belarus,Europe & Central Asia,2011,5930.0,5.225307941436768,73.125
+Belarus,Europe & Central Asia,2012,6040.0,5.7490434646606445,73.125
+Belarus,Europe & Central Asia,2013,6100.0,5.876466274261475,73.125
+Belarus,Europe & Central Asia,2014,6200.0,5.812400817871094,73.125
+Belarus,Europe & Central Asia,2015,5950.0,5.718907833099365,75.625
+Belarus,Europe & Central Asia,2016,5790.0,5.177899360656738,75.625
+Belarus,Europe & Central Asia,2017,5940.0,5.552915096282959,75.625
+Belarus,Europe & Central Asia,2018,6140.0,5.23376989364624,75.625
+Belarus,Europe & Central Asia,2019,6270.0,5.821453094482422,75.625
+Belgium,High income: OECD,2005,38400.0,7.2622904777526855,84.375
+Belgium,High income: OECD,2007,40300.0,7.218839645385742,84.375
+Belgium,High income: OECD,2008,40100.0,7.116590976715088,87.5
+Belgium,High income: OECD,2010,39800.0,6.853514194488525,93.75
+Belgium,High income: OECD,2011,39900.0,7.111363887786865,93.75
+Belgium,High income: OECD,2012,40000.0,6.935122013092041,100.0
+Belgium,High income: OECD,2013,40000.0,7.103661060333252,100.0
+Belgium,High income: OECD,2014,40400.0,6.8553290367126465,100.0
+Belgium,High income: OECD,2015,41000.0,6.904219150543213,100.0
+Belgium,High income: OECD,2016,41300.0,6.948936462402344,100.0
+Belgium,High income: OECD,2017,41800.0,6.928347587585449,100.0
+Belgium,High income: OECD,2018,42400.0,6.892171859741211,100.0
+Belgium,High income: OECD,2019,42900.0,6.7721381187438965,100.0
+Belgium,High income: OECD,2020,40000.0,6.838760852813721,100.0
+Belize,Latin America & Caribbean,2007,4770.0,6.450644493103027,76.875
+Belize,Latin America & Caribbean,2014,4750.0,5.955646514892578,79.375
+Benin,Sub-Saharan Africa,2006,953.0,3.329801559448242,65.625
+Benin,Sub-Saharan Africa,2008,1000.0,3.6671395301818848,71.875
+Benin,Sub-Saharan Africa,2011,990.0,3.870279550552368,71.875
+Benin,Sub-Saharan Africa,2012,1010.0,3.1934688091278076,71.875
+Benin,Sub-Saharan Africa,2013,1050.0,3.479412794113159,74.375
+Benin,Sub-Saharan Africa,2014,1090.0,3.347419261932373,74.375
+Benin,Sub-Saharan Africa,2015,1080.0,3.624664306640625,74.375
+Benin,Sub-Saharan Africa,2016,1080.0,4.007357597351074,74.375
+Benin,Sub-Saharan Africa,2017,1110.0,4.853180885314941,74.375
+Benin,Sub-Saharan Africa,2018,1160.0,5.819827079772949,74.375
+Benin,Sub-Saharan Africa,2019,1200.0,4.97636079788208,74.375
+Benin,Sub-Saharan Africa,2020,1210.0,4.407745838165283,74.375
+Bhutan,South Asia,2013,2500.0,5.569091796875,69.375
+Bhutan,South Asia,2014,2610.0,4.938578128814697,71.875
+Bhutan,South Asia,2015,2750.0,5.082128524780273,71.875
+Bolivia,Latin America & Caribbean,2006,2250.0,5.37398624420166,58.75
+Bolivia,Latin America & Caribbean,2007,2310.0,5.628419399261475,58.75
+Bolivia,Latin America & Caribbean,2008,2410.0,5.297872543334961,58.75
+Bolivia,Latin America & Caribbean,2009,2450.0,6.0855793952941895,61.875
+Bolivia,Latin America & Caribbean,2010,2510.0,5.780620098114014,65.0
+Bolivia,Latin America & Caribbean,2011,2600.0,5.778874397277832,65.0
+Bolivia,Latin America & Caribbean,2012,2690.0,6.018894672393799,68.125
+Bolivia,Latin America & Caribbean,2013,2830.0,5.767428874969482,68.125
+Bolivia,Latin America & Caribbean,2014,2940.0,5.864798545837402,76.875
+Bolivia,Latin America & Caribbean,2015,3040.0,5.834329128265381,76.875
+Bolivia,Latin America & Caribbean,2016,3120.0,5.769723415374756,88.75
+Bolivia,Latin America & Caribbean,2017,3200.0,5.650552749633789,88.75
+Bolivia,Latin America & Caribbean,2018,3290.0,5.91573429107666,88.75
+Bolivia,Latin America & Caribbean,2019,3320.0,5.6742706298828125,88.75
+Bolivia,Latin America & Caribbean,2020,3020.0,5.559258937835693,88.75
+Bosnia and Herzegovina,Europe & Central Asia,2007,3910.0,4.899806976318359,78.75
+Bosnia and Herzegovina,Europe & Central Asia,2009,4030.0,4.96347713470459,78.75
+Bosnia and Herzegovina,Europe & Central Asia,2010,4090.0,4.668517589569092,78.75
+Bosnia and Herzegovina,Europe & Central Asia,2011,4180.0,4.994670867919922,81.875
+Bosnia and Herzegovina,Europe & Central Asia,2012,4210.0,4.773144721984863,81.875
+Bosnia and Herzegovina,Europe & Central Asia,2013,4390.0,5.123664379119873,81.875
+Bosnia and Herzegovina,Europe & Central Asia,2014,4520.0,5.2489542961120605,81.875
+Bosnia and Herzegovina,Europe & Central Asia,2015,4730.0,5.117177963256836,81.875
+Bosnia and Herzegovina,Europe & Central Asia,2016,4940.0,5.180865287780762,81.875
+Bosnia and Herzegovina,Europe & Central Asia,2017,5150.0,5.089902400970459,85.0
+Bosnia and Herzegovina,Europe & Central Asia,2018,5380.0,5.887401103973389,88.125
+Bosnia and Herzegovina,Europe & Central Asia,2019,5580.0,6.015522480010986,85.0
+Bosnia and Herzegovina,Europe & Central Asia,2020,5370.0,5.5158162117004395,85.0
+Botswana,Sub-Saharan Africa,2006,5390.0,4.7393670082092285,61.25
+Botswana,Sub-Saharan Africa,2008,5950.0,5.451147079467773,61.25
+Botswana,Sub-Saharan Africa,2010,5750.0,3.5530202388763428,63.75
+Botswana,Sub-Saharan Africa,2011,6010.0,3.519921064376831,63.75
+Botswana,Sub-Saharan Africa,2012,6200.0,4.835938930511475,63.75
+Botswana,Sub-Saharan Africa,2013,6830.0,4.128298759460449,63.75
+Botswana,Sub-Saharan Africa,2014,7020.0,4.0311970710754395,63.75
+Botswana,Sub-Saharan Africa,2015,6800.0,3.761964797973633,63.75
+Botswana,Sub-Saharan Africa,2016,6960.0,3.498936653137207,63.75
+Botswana,Sub-Saharan Africa,2017,7020.0,3.5048811435699463,63.75
+Botswana,Sub-Saharan Africa,2018,7170.0,3.4613656997680664,63.75
+Botswana,Sub-Saharan Africa,2019,7230.0,3.4710848331451416,63.75
+Brazil,Latin America & Caribbean,2005,7350.0,6.636771202087402,79.375
+Brazil,Latin America & Caribbean,2007,7940.0,6.320672988891602,79.375
+Brazil,Latin America & Caribbean,2008,8260.0,6.69142484664917,81.875
+Brazil,Latin America & Caribbean,2009,8170.0,7.000831604003906,81.875
+Brazil,Latin America & Caribbean,2010,8700.0,6.837331295013428,81.875
+Brazil,Latin America & Caribbean,2011,8970.0,7.037816524505615,81.875
+Brazil,Latin America & Caribbean,2012,9060.0,6.660003662109375,81.875
+Brazil,Latin America & Caribbean,2013,9250.0,7.14028263092041,81.875
+Brazil,Latin America & Caribbean,2014,9210.0,6.980998992919922,81.875
+Brazil,Latin America & Caribbean,2015,8810.0,6.546896934509277,81.875
+Brazil,Latin America & Caribbean,2016,8460.0,6.374817371368408,81.875
+Brazil,Latin America & Caribbean,2017,8500.0,6.3329291343688965,81.875
+Brazil,Latin America & Caribbean,2018,8580.0,6.190921783447266,81.875
+Brazil,Latin America & Caribbean,2019,8640.0,6.451148986816406,81.875
+Brazil,Latin America & Caribbean,2020,8230.0,6.109717845916748,81.875
+Bulgaria,Europe & Central Asia,2007,5960.0,3.8437979221343994,88.125
+Bulgaria,Europe & Central Asia,2010,6270.0,3.912276268005371,90.625
+Bulgaria,Europe & Central Asia,2011,6460.0,3.875382423400879,90.625
+Bulgaria,Europe & Central Asia,2012,6520.0,4.222297191619873,87.5
+Bulgaria,Europe & Central Asia,2013,6580.0,3.993020534515381,87.5
+Bulgaria,Europe & Central Asia,2014,6740.0,4.438439846038818,90.625
+Bulgaria,Europe & Central Asia,2015,7060.0,4.865401268005371,90.625
+Bulgaria,Europe & Central Asia,2016,7380.0,4.837560653686523,90.625
+Bulgaria,Europe & Central Asia,2017,7690.0,5.096901893615723,90.625
+Bulgaria,Europe & Central Asia,2018,7990.0,5.098813533782959,90.625
+Bulgaria,Europe & Central Asia,2019,8340.0,5.108438014984131,90.625
+Bulgaria,Europe & Central Asia,2020,8050.0,5.597723007202148,90.625
+Burkina Faso,Sub-Saharan Africa,2006,534.0,3.8014907836914062,76.875
+Burkina Faso,Sub-Saharan Africa,2007,540.0,4.017130374908447,76.875
+Burkina Faso,Sub-Saharan Africa,2008,554.0,3.8464388847351074,76.875
+Burkina Faso,Sub-Saharan Africa,2010,582.0,4.035560607910156,76.875
+Burkina Faso,Sub-Saharan Africa,2011,603.0,4.785367488861084,76.875
+Burkina Faso,Sub-Saharan Africa,2012,623.0,3.955008029937744,76.875
+Burkina Faso,Sub-Saharan Africa,2013,639.0,3.3259496688842773,76.875
+Burkina Faso,Sub-Saharan Africa,2014,647.0,3.4813477993011475,76.875
+Burkina Faso,Sub-Saharan Africa,2015,653.0,4.4189300537109375,76.875
+Burkina Faso,Sub-Saharan Africa,2016,672.0,4.205634593963623,76.875
+Burkina Faso,Sub-Saharan Africa,2017,694.0,4.646891117095947,76.875
+Burkina Faso,Sub-Saharan Africa,2018,719.0,4.927236080169678,76.875
+Burkina Faso,Sub-Saharan Africa,2019,739.0,4.7408928871154785,76.875
+Burundi,Sub-Saharan Africa,2008,307.0,3.563227653503418,64.375
+Burundi,Sub-Saharan Africa,2009,308.0,3.7916808128356934,64.375
+Burundi,Sub-Saharan Africa,2011,316.0,3.7058942317962646,73.125
+Burundi,Sub-Saharan Africa,2014,328.0,2.9045350551605225,73.125
+Burundi,Sub-Saharan Africa,2018,282.0,3.775283098220825,73.125
+Cambodia,East Asia & Pacific,2006,759.0,3.568744659423828,63.125
+Cambodia,East Asia & Pacific,2007,824.0,4.155971050262451,65.625
+Cambodia,East Asia & Pacific,2008,866.0,4.462163925170898,65.625
+Cambodia,East Asia & Pacific,2009,854.0,4.110625743865967,68.75
+Cambodia,East Asia & Pacific,2010,891.0,4.1410722732543945,68.75
+Cambodia,East Asia & Pacific,2011,939.0,4.161225318908691,75.0
+Cambodia,East Asia & Pacific,2012,991.0,3.8987069129943848,75.0
+Cambodia,East Asia & Pacific,2013,1050.0,3.674466848373413,75.0
+Cambodia,East Asia & Pacific,2014,1100.0,3.883305549621582,75.0
+Cambodia,East Asia & Pacific,2015,1160.0,4.162164688110352,75.0
+Cambodia,East Asia & Pacific,2016,1220.0,4.461259365081787,75.0
+Cambodia,East Asia & Pacific,2017,1290.0,4.585842132568359,75.0
+Cambodia,East Asia & Pacific,2018,1360.0,5.121837615966797,75.0
+Cambodia,East Asia & Pacific,2019,1440.0,4.998284816741943,75.0
+Cambodia,East Asia & Pacific,2020,1370.0,4.3769850730896,75.0
+Cameroon,Sub-Saharan Africa,2006,1150.0,3.851072072982788,50.625
+Cameroon,Sub-Saharan Africa,2007,1180.0,4.349939346313477,50.625
+Cameroon,Sub-Saharan Africa,2008,1180.0,4.291800498962402,50.625
+Cameroon,Sub-Saharan Africa,2009,1180.0,4.741408348083496,50.625
+Cameroon,Sub-Saharan Africa,2010,1180.0,4.554256916046143,50.625
+Cameroon,Sub-Saharan Africa,2011,1200.0,4.433885097503662,50.625
+Cameroon,Sub-Saharan Africa,2012,1220.0,4.24463415145874,50.625
+Cameroon,Sub-Saharan Africa,2013,1250.0,4.271038055419922,50.625
+Cameroon,Sub-Saharan Africa,2014,1290.0,4.24044132232666,50.625
+Cameroon,Sub-Saharan Africa,2015,1330.0,5.037964820861816,50.625
+Cameroon,Sub-Saharan Africa,2016,1350.0,4.816232204437256,50.625
+Cameroon,Sub-Saharan Africa,2017,1360.0,5.074051380157471,50.625
+Cameroon,Sub-Saharan Africa,2018,1380.0,5.25073766708374,60.0
+Cameroon,Sub-Saharan Africa,2019,1400.0,4.936737537384033,60.0
+Cameroon,Sub-Saharan Africa,2020,1370.0,5.241077899932861,60.0
+Canada,High income: OECD,2005,38600.0,7.41804838180542,97.5
+Canada,High income: OECD,2007,42100.0,7.481752872467041,97.5
+Canada,High income: OECD,2008,42100.0,7.4856038093566895,97.5
+Canada,High income: OECD,2009,40400.0,7.487824440002441,97.5
+Canada,High income: OECD,2010,41200.0,7.650346279144287,97.5
+Canada,High income: OECD,2011,42000.0,7.426053524017334,97.5
+Canada,High income: OECD,2012,42300.0,7.415144443511963,97.5
+Canada,High income: OECD,2013,42800.0,7.593793869018555,97.5
+Canada,High income: OECD,2014,43600.0,7.304257869720459,97.5
+Canada,High income: OECD,2015,43600.0,7.4127726554870605,97.5
+Canada,High income: OECD,2016,43500.0,7.244845867156982,97.5
+Canada,High income: OECD,2017,44300.0,7.414868354797363,97.5
+Canada,High income: OECD,2018,44800.0,7.175496578216553,97.5
+Canada,High income: OECD,2019,45000.0,7.109076499938965,97.5
+Canada,High income: OECD,2020,42100.0,7.024904727935791,100.0
+Central African Republic,Sub-Saharan Africa,2007,479.0,4.160129547119141,58.75
+Central African Republic,Sub-Saharan Africa,2010,532.0,3.567892551422119,76.875
+Central African Republic,Sub-Saharan Africa,2011,550.0,3.677826404571533,76.875
+Central African Republic,Sub-Saharan Africa,2016,391.0,2.693061113357544,76.875
+Central African Republic,Sub-Saharan Africa,2017,404.0,3.4758620262145996,76.875
+Chad,Sub-Saharan Africa,2006,657.0,3.434800624847412,57.5
+Chad,Sub-Saharan Africa,2007,656.0,4.141326904296875,57.5
+Chad,Sub-Saharan Africa,2008,654.0,4.632468223571777,57.5
+Chad,Sub-Saharan Africa,2009,659.0,3.6394450664520264,57.5
+Chad,Sub-Saharan Africa,2010,724.0,3.742871046066284,57.5
+Chad,Sub-Saharan Africa,2011,701.0,4.393482208251953,57.5
+Chad,Sub-Saharan Africa,2012,738.0,4.032974720001221,57.5
+Chad,Sub-Saharan Africa,2013,754.0,3.5076630115509033,57.5
+Chad,Sub-Saharan Africa,2014,780.0,3.4601829051971436,57.5
+Chad,Sub-Saharan Africa,2015,776.0,4.3226752281188965,57.5
+Chad,Sub-Saharan Africa,2016,705.0,4.029350280761719,57.5
+Chad,Sub-Saharan Africa,2017,663.0,4.558937072753906,57.5
+Chad,Sub-Saharan Africa,2018,659.0,4.486325263977051,66.25
+Chad,Sub-Saharan Africa,2019,660.0,4.250799179077148,66.25
+Chile,High income: OECD,2006,10900.0,6.062851905822754,66.875
+Chile,High income: OECD,2007,11300.0,5.697929859161377,71.875
+Chile,High income: OECD,2008,11600.0,5.789438724517822,71.875
+Chile,High income: OECD,2009,11300.0,6.493686199188232,75.0
+Chile,High income: OECD,2010,11800.0,6.635655879974365,75.0
+Chile,High income: OECD,2011,12400.0,6.526334762573242,75.0
+Chile,High income: OECD,2012,12900.0,6.599128723144531,75.0
+Chile,High income: OECD,2013,13300.0,6.740153789520264,77.5
+Chile,High income: OECD,2014,13400.0,6.84423828125,77.5
+Chile,High income: OECD,2015,13600.0,6.532749652862549,77.5
+Chile,High income: OECD,2016,13600.0,6.579056262969971,77.5
+Chile,High income: OECD,2017,13600.0,6.320119380950928,77.5
+Chile,High income: OECD,2018,13900.0,6.436220645904541,77.5
+Chile,High income: OECD,2019,13900.0,5.9422502517700195,77.5
+Chile,High income: OECD,2020,13000.0,6.1506428718566895,77.5
+China,East Asia & Pacific,2006,3800.0,4.560495376586914,70.0
+China,East Asia & Pacific,2006,34500.0,4.560495376586914,70.0
+China,East Asia & Pacific,2006,53800.0,4.560495376586914,70.0
+Hong Kong S.A.R. of China,East Asia & Pacific,2006,3800.0,5.5111870765686035,70.0
+Hong Kong S.A.R. of China,East Asia & Pacific,2006,34500.0,5.5111870765686035,70.0
+Hong Kong S.A.R. of China,East Asia & Pacific,2006,53800.0,5.5111870765686035,70.0
+Taiwan Province of China,East Asia & Pacific,2006,3800.0,6.189050197601318,70.0
+Taiwan Province of China,East Asia & Pacific,2006,34500.0,6.189050197601318,70.0
+Taiwan Province of China,East Asia & Pacific,2006,53800.0,6.189050197601318,70.0
+China,East Asia & Pacific,2007,4320.0,4.8628621101379395,72.5
+China,East Asia & Pacific,2007,36400.0,4.8628621101379395,72.5
+China,East Asia & Pacific,2007,60200.0,4.8628621101379395,72.5
+China,East Asia & Pacific,2008,4710.0,4.84629487991333,72.5
+China,East Asia & Pacific,2008,36900.0,4.84629487991333,72.5
+China,East Asia & Pacific,2008,61000.0,4.84629487991333,72.5
+Hong Kong S.A.R. of China,East Asia & Pacific,2008,4710.0,5.137261867523193,72.5
+Hong Kong S.A.R. of China,East Asia & Pacific,2008,36900.0,5.137261867523193,72.5
+Hong Kong S.A.R. of China,East Asia & Pacific,2008,61000.0,5.137261867523193,72.5
+Taiwan Province of China,East Asia & Pacific,2008,4710.0,5.547682285308838,72.5
+Taiwan Province of China,East Asia & Pacific,2008,36900.0,5.547682285308838,72.5
+Taiwan Province of China,East Asia & Pacific,2008,61000.0,5.547682285308838,72.5
+China,East Asia & Pacific,2009,5130.0,4.4543609619140625,69.375
+China,East Asia & Pacific,2009,35900.0,4.4543609619140625,69.375
+China,East Asia & Pacific,2009,60500.0,4.4543609619140625,69.375
+Hong Kong S.A.R. of China,East Asia & Pacific,2009,5130.0,5.397055625915527,69.375
+Hong Kong S.A.R. of China,East Asia & Pacific,2009,35900.0,5.397055625915527,69.375
+Hong Kong S.A.R. of China,East Asia & Pacific,2009,60500.0,5.397055625915527,69.375
+China,East Asia & Pacific,2010,5650.0,4.652736663818359,69.375
+China,East Asia & Pacific,2010,38100.0,4.652736663818359,69.375
+China,East Asia & Pacific,2010,74000.0,4.652736663818359,69.375
+Hong Kong S.A.R. of China,East Asia & Pacific,2010,5650.0,5.642834663391113,69.375
+Hong Kong S.A.R. of China,East Asia & Pacific,2010,38100.0,5.642834663391113,69.375
+Hong Kong S.A.R. of China,East Asia & Pacific,2010,74000.0,5.642834663391113,69.375
+Taiwan Province of China,East Asia & Pacific,2010,5650.0,6.2285308837890625,69.375
+Taiwan Province of China,East Asia & Pacific,2010,38100.0,6.2285308837890625,69.375
+Taiwan Province of China,East Asia & Pacific,2010,74000.0,6.2285308837890625,69.375
+China,East Asia & Pacific,2011,6160.0,5.03720760345459,69.375
+China,East Asia & Pacific,2011,39700.0,5.03720760345459,69.375
+China,East Asia & Pacific,2011,87900.0,5.03720760345459,69.375
+Hong Kong S.A.R. of China,East Asia & Pacific,2011,6160.0,5.474010944366455,69.375
+Hong Kong S.A.R. of China,East Asia & Pacific,2011,39700.0,5.474010944366455,69.375
+Hong Kong S.A.R. of China,East Asia & Pacific,2011,87900.0,5.474010944366455,69.375
+Taiwan Province of China,East Asia & Pacific,2011,6160.0,6.308915138244629,69.375
+Taiwan Province of China,East Asia & Pacific,2011,39700.0,6.308915138244629,69.375
+Taiwan Province of China,East Asia & Pacific,2011,87900.0,6.308915138244629,69.375
+China,East Asia & Pacific,2012,6610.0,5.094917297363281,69.375
+China,East Asia & Pacific,2012,39900.0,5.094917297363281,69.375
+China,East Asia & Pacific,2012,93800.0,5.094917297363281,69.375
+Hong Kong S.A.R. of China,East Asia & Pacific,2012,6610.0,5.4837646484375,69.375
+Hong Kong S.A.R. of China,East Asia & Pacific,2012,39900.0,5.4837646484375,69.375
+Hong Kong S.A.R. of China,East Asia & Pacific,2012,93800.0,5.4837646484375,69.375
+Taiwan Province of China,East Asia & Pacific,2012,6610.0,6.125916957855225,69.375
+Taiwan Province of China,East Asia & Pacific,2012,39900.0,6.125916957855225,69.375
+Taiwan Province of China,East Asia & Pacific,2012,93800.0,6.125916957855225,69.375
+China,East Asia & Pacific,2013,7090.0,5.241090297698975,75.625
+China,East Asia & Pacific,2013,41000.0,5.241090297698975,75.625
+China,East Asia & Pacific,2013,101000.0,5.241090297698975,75.625
+Taiwan Province of China,East Asia & Pacific,2013,7090.0,6.340344429016113,75.625
+Taiwan Province of China,East Asia & Pacific,2013,41000.0,6.340344429016113,75.625
+Taiwan Province of China,East Asia & Pacific,2013,101000.0,6.340344429016113,75.625
+China,East Asia & Pacific,2014,7570.0,5.195619106292725,75.625
+China,East Asia & Pacific,2014,41800.0,5.195619106292725,75.625
+China,East Asia & Pacific,2014,97200.0,5.195619106292725,75.625
+Hong Kong S.A.R. of China,East Asia & Pacific,2014,7570.0,5.458050727844238,75.625
+Hong Kong S.A.R. of China,East Asia & Pacific,2014,41800.0,5.458050727844238,75.625
+Hong Kong S.A.R. of China,East Asia & Pacific,2014,97200.0,5.458050727844238,75.625
+Taiwan Province of China,East Asia & Pacific,2014,7570.0,6.363496780395508,75.625
+Taiwan Province of China,East Asia & Pacific,2014,41800.0,6.363496780395508,75.625
+Taiwan Province of China,East Asia & Pacific,2014,97200.0,6.363496780395508,75.625
+China,East Asia & Pacific,2015,8070.0,5.303877830505371,75.625
+China,East Asia & Pacific,2015,42400.0,5.303877830505371,75.625
+China,East Asia & Pacific,2015,74800.0,5.303877830505371,75.625
+Taiwan Province of China,East Asia & Pacific,2015,8070.0,6.450088024139404,75.625
+Taiwan Province of China,East Asia & Pacific,2015,42400.0,6.450088024139404,75.625
+Taiwan Province of China,East Asia & Pacific,2015,74800.0,6.450088024139404,75.625
+China,East Asia & Pacific,2016,8570.0,5.324955940246582,75.625
+China,East Asia & Pacific,2016,43100.0,5.324955940246582,75.625
+China,East Asia & Pacific,2016,73000.0,5.324955940246582,75.625
+Hong Kong S.A.R. of China,East Asia & Pacific,2016,8570.0,5.498420715332031,75.625
+Hong Kong S.A.R. of China,East Asia & Pacific,2016,43100.0,5.498420715332031,75.625
+Hong Kong S.A.R. of China,East Asia & Pacific,2016,73000.0,5.498420715332031,75.625
+Taiwan Province of China,East Asia & Pacific,2016,8570.0,6.512850761413574,75.625
+Taiwan Province of China,East Asia & Pacific,2016,43100.0,6.512850761413574,75.625
+Taiwan Province of China,East Asia & Pacific,2016,73000.0,6.512850761413574,75.625
+China,East Asia & Pacific,2017,9120.0,5.099061489105225,75.625
+China,East Asia & Pacific,2017,44400.0,5.099061489105225,75.625
+China,East Asia & Pacific,2017,79100.0,5.099061489105225,75.625
+Hong Kong S.A.R. of China,East Asia & Pacific,2017,9120.0,5.3624749183654785,75.625
+Hong Kong S.A.R. of China,East Asia & Pacific,2017,44400.0,5.3624749183654785,75.625
+Hong Kong S.A.R. of China,East Asia & Pacific,2017,79100.0,5.3624749183654785,75.625
+Taiwan Province of China,East Asia & Pacific,2017,9120.0,6.359450817108154,75.625
+Taiwan Province of China,East Asia & Pacific,2017,44400.0,6.359450817108154,75.625
+Taiwan Province of China,East Asia & Pacific,2017,79100.0,6.359450817108154,75.625
+China,East Asia & Pacific,2018,9690.0,5.131433963775635,75.625
+China,East Asia & Pacific,2018,45300.0,5.131433963775635,75.625
+China,East Asia & Pacific,2018,83000.0,5.131433963775635,75.625
+Taiwan Province of China,East Asia & Pacific,2018,9690.0,6.467004776000977,75.625
+Taiwan Province of China,East Asia & Pacific,2018,45300.0,6.467004776000977,75.625
+Taiwan Province of China,East Asia & Pacific,2018,83000.0,6.467004776000977,75.625
+China,East Asia & Pacific,2019,10200.0,5.144120216369629,75.625
+China,East Asia & Pacific,2019,44200.0,5.144120216369629,75.625
+China,East Asia & Pacific,2019,79700.0,5.144120216369629,75.625
+Hong Kong S.A.R. of China,East Asia & Pacific,2019,10200.0,5.6593170166015625,75.625
+Hong Kong S.A.R. of China,East Asia & Pacific,2019,44200.0,5.6593170166015625,75.625
+Hong Kong S.A.R. of China,East Asia & Pacific,2019,79700.0,5.6593170166015625,75.625
+Taiwan Province of China,East Asia & Pacific,2019,10200.0,6.537089824676514,75.625
+Taiwan Province of China,East Asia & Pacific,2019,44200.0,6.537089824676514,75.625
+Taiwan Province of China,East Asia & Pacific,2019,79700.0,6.537089824676514,75.625
+China,East Asia & Pacific,2020,10400.0,5.771064758300781,75.625
+China,East Asia & Pacific,2020,41600.0,5.771064758300781,75.625
+China,East Asia & Pacific,2020,34300.0,5.771064758300781,75.625
+Hong Kong S.A.R. of China,East Asia & Pacific,2020,10400.0,5.295341491699219,75.625
+Hong Kong S.A.R. of China,East Asia & Pacific,2020,41600.0,5.295341491699219,75.625
+Hong Kong S.A.R. of China,East Asia & Pacific,2020,34300.0,5.295341491699219,75.625
+Taiwan Province of China,East Asia & Pacific,2020,10400.0,6.751067638397217,75.625
+Taiwan Province of China,East Asia & Pacific,2020,41600.0,6.751067638397217,75.625
+Taiwan Province of China,East Asia & Pacific,2020,34300.0,6.751067638397217,75.625
+Colombia,Latin America & Caribbean,2006,4640.0,6.024942874908447,66.875
+Colombia,Latin America & Caribbean,2007,4890.0,6.138411521911621,73.125
+Colombia,Latin America & Caribbean,2008,4990.0,6.168395042419434,73.125
+Colombia,Latin America & Caribbean,2009,4990.0,6.271604537963867,73.125
+Colombia,Latin America & Caribbean,2010,5160.0,6.408113479614258,73.125
+Colombia,Latin America & Caribbean,2011,5470.0,6.463952541351318,73.125
+Colombia,Latin America & Caribbean,2012,5630.0,6.374879837036133,73.125
+Colombia,Latin America & Caribbean,2013,5870.0,6.606550693511963,78.75
+Colombia,Latin America & Caribbean,2014,6070.0,6.448789119720459,78.75
+Colombia,Latin America & Caribbean,2015,6180.0,6.387571811676025,78.75
+Colombia,Latin America & Caribbean,2016,6220.0,6.233715057373047,78.75
+Colombia,Latin America & Caribbean,2017,6210.0,6.157341957092285,78.75
+Colombia,Latin America & Caribbean,2018,6270.0,5.9835124015808105,81.875
+Colombia,Latin America & Caribbean,2019,6390.0,6.350297927856445,81.875
+Colombia,Latin America & Caribbean,2020,5890.0,5.709175109863281,81.875
+Comoros,Sub-Saharan Africa,2009,1190.0,3.476027250289917,43.75
+Comoros,Sub-Saharan Africa,2010,1210.0,3.8121910095214844,43.75
+Comoros,Sub-Saharan Africa,2011,1230.0,3.8384859561920166,43.75
+Comoros,Sub-Saharan Africa,2012,1240.0,3.9556403160095215,43.75
+Comoros,Sub-Saharan Africa,2018,1290.0,3.9728195667266846,65.0
+Comoros,Sub-Saharan Africa,2019,1280.0,4.608616352081299,65.0
+Congo (Brazzaville),Sub-Saharan Africa,2008,2100.0,3.8197922706604004,49.375
+Congo (Brazzaville),Sub-Saharan Africa,2011,2410.0,4.509824275970459,49.375
+Congo (Brazzaville),Sub-Saharan Africa,2012,2580.0,3.919341802597046,49.375
+Congo (Brazzaville),Sub-Saharan Africa,2013,2500.0,3.9549505710601807,49.375
+Congo (Brazzaville),Sub-Saharan Africa,2014,2600.0,4.0560126304626465,49.375
+Congo (Brazzaville),Sub-Saharan Africa,2015,2450.0,4.690830230712891,49.375
+Congo (Brazzaville),Sub-Saharan Africa,2016,2130.0,4.11949348449707,49.375
+Congo (Brazzaville),Sub-Saharan Africa,2017,1990.0,4.883991241455078,49.375
+Congo (Brazzaville),Sub-Saharan Africa,2018,1840.0,5.4902143478393555,49.375
+Congo (Brazzaville),Sub-Saharan Africa,2019,1800.0,5.21262264251709,49.375
+Costa Rica,Latin America & Caribbean,2006,9110.0,7.082465171813965,77.5
+Costa Rica,Latin America & Caribbean,2007,9730.0,7.432132244110107,77.5
+Costa Rica,Latin America & Caribbean,2008,10100.0,6.850679874420166,77.5
+Costa Rica,Latin America & Caribbean,2009,9840.0,7.614928722381592,80.0
+Costa Rica,Latin America & Caribbean,2010,10200.0,7.271053791046143,80.0
+Costa Rica,Latin America & Caribbean,2011,10600.0,7.228888511657715,80.0
+Costa Rica,Latin America & Caribbean,2012,10900.0,7.272250175476074,80.0
+Costa Rica,Latin America & Caribbean,2013,11100.0,7.158000469207764,80.0
+Costa Rica,Latin America & Caribbean,2014,11400.0,7.247086048126221,80.0
+Costa Rica,Latin America & Caribbean,2015,11600.0,6.854004383087158,80.0
+Costa Rica,Latin America & Caribbean,2016,12000.0,7.135617733001709,80.0
+Costa Rica,Latin America & Caribbean,2017,12400.0,7.225181579589844,80.0
+Costa Rica,Latin America & Caribbean,2018,12500.0,7.1410746574401855,80.0
+Costa Rica,Latin America & Caribbean,2019,12700.0,6.997618675231934,80.0
+Croatia,Europe & Central Asia,2007,12500.0,5.8209075927734375,76.25
+Croatia,Europe & Central Asia,2009,11800.0,5.433319568634033,79.375
+Croatia,Europe & Central Asia,2010,11600.0,5.595575332641602,84.375
+Croatia,Europe & Central Asia,2011,11700.0,5.385372638702393,93.75
+Croatia,Europe & Central Asia,2012,11400.0,6.027634620666504,93.75
+Croatia,Europe & Central Asia,2013,11400.0,5.885462760925293,93.75
+Croatia,Europe & Central Asia,2014,11400.0,5.380692481994629,93.75
+Croatia,Europe & Central Asia,2015,11800.0,5.205438137054443,93.75
+Croatia,Europe & Central Asia,2016,12300.0,5.41687536239624,93.75
+Croatia,Europe & Central Asia,2017,12900.0,5.343165874481201,93.75
+Croatia,Europe & Central Asia,2018,13300.0,5.536271095275879,93.75
+Croatia,Europe & Central Asia,2019,13800.0,5.625743865966797,93.75
+Croatia,Europe & Central Asia,2020,12700.0,6.507992267608643,93.75
+Cyprus,Europe & Central Asia,2006,31500.0,6.2379584312438965,85.625
+Cyprus,Europe & Central Asia,2009,31200.0,6.83347749710083,88.75
+Cyprus,Europe & Central Asia,2010,31000.0,6.3865461349487305,88.75
+Cyprus,Europe & Central Asia,2011,30400.0,6.689608573913574,88.75
+Cyprus,Europe & Central Asia,2012,28900.0,6.180507183074951,88.75
+North Cyprus,Europe & Central Asia,2012,28900.0,5.463305473327637,88.75
+Cyprus,Europe & Central Asia,2013,27000.0,5.438952445983887,88.75
+North Cyprus,Europe & Central Asia,2013,27000.0,5.566802501678467,88.75
+Cyprus,Europe & Central Asia,2014,26800.0,5.627123832702637,88.75
+North Cyprus,Europe & Central Asia,2014,26800.0,5.7859787940979,88.75
+Cyprus,Europe & Central Asia,2015,27900.0,5.43916130065918,88.75
+North Cyprus,Europe & Central Asia,2015,27900.0,5.842550277709961,88.75
+Cyprus,Europe & Central Asia,2016,29500.0,5.794618606567383,88.75
+North Cyprus,Europe & Central Asia,2016,29500.0,5.827127933502197,88.75
+Cyprus,Europe & Central Asia,2017,30800.0,6.062051296234131,88.75
+Cyprus,Europe & Central Asia,2018,32000.0,6.276443004608154,88.75
+North Cyprus,Europe & Central Asia,2018,32000.0,5.60805606842041,88.75
+Cyprus,Europe & Central Asia,2019,32500.0,6.1368327140808105,91.25
+North Cyprus,Europe & Central Asia,2019,32500.0,5.466615200042725,91.25
+Cyprus,Europe & Central Asia,2020,30400.0,6.259810447692871,91.25
+Czech Republic,High income: OECD,2005,15000.0,6.43925666809082,73.125
+Czech Republic,High income: OECD,2007,16700.0,6.500194072723389,81.875
+Czech Republic,High income: OECD,2010,16500.0,6.249617576599121,88.125
+Czech Republic,High income: OECD,2011,16800.0,6.331490993499756,88.125
+Czech Republic,High income: OECD,2012,16600.0,6.334149360656738,88.125
+Czech Republic,High income: OECD,2013,16600.0,6.69765567779541,91.25
+Czech Republic,High income: OECD,2014,17000.0,6.483729839324951,91.25
+Czech Republic,High income: OECD,2015,17800.0,6.608017444610596,91.25
+Czech Republic,High income: OECD,2016,18200.0,6.735627174377441,91.25
+Czech Republic,High income: OECD,2017,19100.0,6.789567947387695,91.25
+Czech Republic,High income: OECD,2018,19700.0,7.034165382385254,91.25
+Czech Republic,High income: OECD,2020,19000.0,6.897091388702393,93.75
+Denmark,High income: OECD,2005,51800.0,8.01893424987793,91.25
+Denmark,High income: OECD,2007,53900.0,7.834233283996582,91.25
+Denmark,High income: OECD,2008,53300.0,7.970891952514648,91.25
+Denmark,High income: OECD,2009,50500.0,7.683358669281006,97.5
+Denmark,High income: OECD,2010,51200.0,7.770515441894531,97.5
+Denmark,High income: OECD,2011,51600.0,7.78823184967041,97.5
+Denmark,High income: OECD,2012,51600.0,7.519909381866455,97.5
+Denmark,High income: OECD,2013,51800.0,7.588606834411621,100.0
+Denmark,High income: OECD,2014,52400.0,7.507559299468994,100.0
+Denmark,High income: OECD,2015,53300.0,7.514424800872803,100.0
+Denmark,High income: OECD,2016,54600.0,7.5577826499938965,100.0
+Denmark,High income: OECD,2017,55700.0,7.59370231628418,100.0
+Denmark,High income: OECD,2018,56600.0,7.648785591125488,100.0
+Denmark,High income: OECD,2019,57600.0,7.693003177642822,100.0
+Denmark,High income: OECD,2020,56200.0,7.514631271362305,100.0
+Dominican Republic,Latin America & Caribbean,2006,5010.0,5.087967872619629,80.625
+Dominican Republic,Latin America & Caribbean,2007,5310.0,5.081305980682373,80.625
+Dominican Republic,Latin America & Caribbean,2008,5410.0,4.842305660247803,80.625
+Dominican Republic,Latin America & Caribbean,2009,5390.0,5.431613922119141,80.625
+Dominican Republic,Latin America & Caribbean,2010,5770.0,4.735021114349365,80.625
+Dominican Republic,Latin America & Caribbean,2011,5880.0,5.396535396575928,80.625
+Dominican Republic,Latin America & Caribbean,2012,5970.0,4.7533111572265625,80.625
+Dominican Republic,Latin America & Caribbean,2013,6190.0,5.015515327453613,80.625
+Dominican Republic,Latin America & Caribbean,2014,6550.0,5.387331962585449,80.625
+Dominican Republic,Latin America & Caribbean,2015,6920.0,5.061862468719482,80.625
+Dominican Republic,Latin America & Caribbean,2016,7300.0,5.238698482513428,83.75
+Dominican Republic,Latin America & Caribbean,2017,7560.0,5.605202674865723,83.75
+Dominican Republic,Latin America & Caribbean,2018,8000.0,5.433215618133545,86.25
+Dominican Republic,Latin America & Caribbean,2019,8310.0,6.004237174987793,86.25
+Dominican Republic,Latin America & Caribbean,2020,7680.0,5.168409824371338,86.25
+Ecuador,Latin America & Caribbean,2006,5020.0,5.024191379547119,78.75
+Ecuador,Latin America & Caribbean,2007,5050.0,4.995875358581543,81.25
+Ecuador,Latin America & Caribbean,2008,5280.0,5.296513080596924,81.25
+Ecuador,Latin America & Caribbean,2009,5220.0,6.021803379058838,81.25
+Ecuador,Latin America & Caribbean,2010,5320.0,5.8380513191223145,84.375
+Ecuador,Latin America & Caribbean,2011,5650.0,5.795088291168213,84.375
+Ecuador,Latin America & Caribbean,2012,5890.0,5.960716247558594,84.375
+Ecuador,Latin America & Caribbean,2013,6080.0,6.0192060470581055,84.375
+Ecuador,Latin America & Caribbean,2014,6220.0,5.945851802825928,84.375
+Ecuador,Latin America & Caribbean,2015,6120.0,5.964075088500977,84.375
+Ecuador,Latin America & Caribbean,2016,5950.0,6.1154375076293945,84.375
+Ecuador,Latin America & Caribbean,2017,5980.0,5.8395185470581055,89.375
+Ecuador,Latin America & Caribbean,2018,5950.0,6.128010272979736,89.375
+Ecuador,Latin America & Caribbean,2019,5850.0,5.809131145477295,89.375
+Ecuador,Latin America & Caribbean,2020,5320.0,5.354461669921875,89.375
+Egypt,Middle East & North Africa,2005,2830.0,5.167754173278809,38.75
+Egypt,Middle East & North Africa,2007,3130.0,5.540510654449463,38.75
+Egypt,Middle East & North Africa,2008,3290.0,4.631741046905518,38.75
+Egypt,Middle East & North Africa,2009,3380.0,5.066164493560791,38.75
+Egypt,Middle East & North Africa,2010,3490.0,4.66891622543335,38.75
+Egypt,Middle East & North Africa,2011,3470.0,4.174158573150635,38.75
+Egypt,Middle East & North Africa,2012,3470.0,4.204156875610352,38.75
+Egypt,Middle East & North Africa,2013,3470.0,3.5585203170776367,38.75
+Egypt,Middle East & North Africa,2014,3490.0,4.885072708129883,38.75
+Egypt,Middle East & North Africa,2015,3560.0,4.762538433074951,38.75
+Egypt,Middle East & North Africa,2016,3640.0,4.556740760803223,45.0
+Egypt,Middle East & North Africa,2017,3710.0,3.9293441772460938,45.0
+Egypt,Middle East & North Africa,2018,3830.0,4.00545072555542,45.0
+Egypt,Middle East & North Africa,2019,3960.0,4.327831745147705,45.0
+Egypt,Middle East & North Africa,2020,4030.0,4.4723968505859375,45.0
+El Salvador,Latin America & Caribbean,2006,3250.0,5.700929641723633,78.125
+El Salvador,Latin America & Caribbean,2007,3290.0,5.295535087585449,81.25
+El Salvador,Latin America & Caribbean,2008,3360.0,5.191493988037109,81.25
+El Salvador,Latin America & Caribbean,2009,3280.0,6.839087009429932,83.75
+El Salvador,Latin America & Caribbean,2010,3330.0,6.739911079406738,83.75
+El Salvador,Latin America & Caribbean,2011,3450.0,4.741294860839844,83.75
+El Salvador,Latin America & Caribbean,2012,3530.0,5.934371471405029,83.75
+El Salvador,Latin America & Caribbean,2013,3590.0,6.325063228607178,83.75
+El Salvador,Latin America & Caribbean,2014,3640.0,5.856523513793945,86.25
+El Salvador,Latin America & Caribbean,2015,3710.0,6.018496036529541,86.25
+El Salvador,Latin America & Caribbean,2016,3780.0,6.139824867248535,86.25
+El Salvador,Latin America & Caribbean,2017,3850.0,6.33931827545166,88.75
+El Salvador,Latin America & Caribbean,2018,3920.0,6.241199493408203,88.75
+El Salvador,Latin America & Caribbean,2019,4000.0,6.45482063293457,88.75
+El Salvador,Latin America & Caribbean,2020,3670.0,5.4619269371032715,88.75
+Estonia,High income: OECD,2006,16100.000000000002,5.371054649353027,81.875
+Estonia,High income: OECD,2007,17500.0,5.3320441246032715,81.875
+Estonia,High income: OECD,2008,16600.0,5.451937675476074,81.875
+Estonia,High income: OECD,2009,14200.0,5.1377387046813965,81.875
+Estonia,High income: OECD,2011,15700.0,5.486819744110107,91.25
+Estonia,High income: OECD,2012,16300.0,5.363927841186523,91.25
+Estonia,High income: OECD,2013,16500.0,5.367445945739746,91.25
+Estonia,High income: OECD,2014,17100.0,5.55598258972168,91.25
+Estonia,High income: OECD,2015,17400.0,5.628908634185791,91.25
+Estonia,High income: OECD,2016,17900.0,5.649675369262695,91.25
+Estonia,High income: OECD,2017,19000.0,5.938395977020264,97.5
+Estonia,High income: OECD,2018,19700.0,6.091302394866943,97.5
+Estonia,High income: OECD,2019,20400.0,6.034641265869141,97.5
+Estonia,High income: OECD,2020,19700.0,6.452563762664795,97.5
+Ethiopia,Sub-Saharan Africa,2012,518.0,4.561168670654297,65.625
+Ethiopia,Sub-Saharan Africa,2013,556.0,4.444827079772949,71.875
+Ethiopia,Sub-Saharan Africa,2014,596.0,4.506646633148193,71.875
+Ethiopia,Sub-Saharan Africa,2015,641.0,4.573154926300049,71.875
+Ethiopia,Sub-Saharan Africa,2016,682.0,4.297848701477051,71.875
+Ethiopia,Sub-Saharan Africa,2017,728.0,4.1803154945373535,71.875
+Ethiopia,Sub-Saharan Africa,2018,757.0,4.379262447357178,71.875
+Ethiopia,Sub-Saharan Africa,2019,800.0,4.099555015563965,71.875
+Ethiopia,Sub-Saharan Africa,2020,827.0,4.549219608306885,71.875
+Finland,High income: OECD,2006,44100.0,7.672449111938477,94.375
+Finland,High income: OECD,2008,46300.0,7.670626640319824,94.375
+Finland,High income: OECD,2010,43500.0,7.393264293670654,97.5
+Finland,High income: OECD,2011,44400.0,7.354225158691406,97.5
+Finland,High income: OECD,2012,43600.0,7.4202094078063965,97.5
+Finland,High income: OECD,2013,43000.0,7.44463586807251,97.5
+Finland,High income: OECD,2014,42700.0,7.384571075439453,97.5
+Finland,High income: OECD,2015,42800.0,7.447925567626953,97.5
+Finland,High income: OECD,2016,43900.0,7.659843444824219,97.5
+Finland,High income: OECD,2017,45200.0,7.788251876831055,97.5
+Finland,High income: OECD,2018,45600.0,7.858107089996338,97.5
+Finland,High income: OECD,2019,46200.0,7.78034782409668,97.5
+Finland,High income: OECD,2020,44800.0,7.889349937438965,97.5
+France,High income: OECD,2005,35200.0,7.093392848968506,91.875
+France,High income: OECD,2006,35800.0,6.582700252532959,91.875
+France,High income: OECD,2008,36300.0,7.0080647468566895,97.5
+France,High income: OECD,2009,35100.0,6.283498287200928,97.5
+France,High income: OECD,2010,35600.0,6.797901153564453,97.5
+France,High income: OECD,2011,36200.0,6.9591851234436035,97.5
+France,High income: OECD,2012,36200.0,6.649365425109863,97.5
+France,High income: OECD,2013,36200.0,6.667121410369873,97.5
+France,High income: OECD,2014,36400.0,6.466867923736572,97.5
+France,High income: OECD,2015,36600.0,6.3576250076293945,97.5
+France,High income: OECD,2016,36900.0,6.475208759307861,100.0
+France,High income: OECD,2017,37700.0,6.635222434997559,100.0
+France,High income: OECD,2018,38300.0,6.665903568267822,100.0
+France,High income: OECD,2019,38900.0,6.6896443367004395,100.0
+France,High income: OECD,2020,35800.0,6.714111804962158,100.0
+Gabon,Sub-Saharan Africa,2011,7090.0,4.255400657653809,51.25
+Gabon,Sub-Saharan Africa,2012,7180.0,3.9720592498779297,51.25
+Gabon,Sub-Saharan Africa,2013,7300.0,3.8002870082855225,51.25
+Gabon,Sub-Saharan Africa,2014,7350.0,3.9180731773376465,51.25
+Gabon,Sub-Saharan Africa,2015,7380.0,4.661012649536133,51.25
+Gabon,Sub-Saharan Africa,2016,7310.0,4.831764221191406,51.25
+Gabon,Sub-Saharan Africa,2017,7150.0,4.782382965087891,51.25
+Gabon,Sub-Saharan Africa,2018,7020.0,4.783009052276611,57.5
+Gabon,Sub-Saharan Africa,2019,7120.0,4.914393424987793,57.5
+Gambia,Sub-Saharan Africa,2017,665.0,4.117938995361328,74.375
+Gambia,Sub-Saharan Africa,2018,693.0,4.9220991134643555,74.375
+Gambia,Sub-Saharan Africa,2019,713.0,5.1636271476745605,74.375
+Georgia,Europe & Central Asia,2006,2560.0,3.6751084327697754,64.375
+Georgia,Europe & Central Asia,2007,2900.0,3.7071945667266846,66.875
+Georgia,Europe & Central Asia,2008,2980.0,4.156090259552002,66.875
+Georgia,Europe & Central Asia,2009,2900.0,3.8006391525268555,66.875
+Georgia,Europe & Central Asia,2010,3100.0,4.101837158203125,66.875
+Georgia,Europe & Central Asia,2011,3360.0,4.203030586242676,70.0
+Georgia,Europe & Central Asia,2012,3600.0,4.254445552825928,70.0
+Georgia,Europe & Central Asia,2013,3740.0,4.348920822143555,70.0
+Georgia,Europe & Central Asia,2014,3900.0,4.287508010864258,73.125
+Georgia,Europe & Central Asia,2015,4010.0,4.121940612792969,79.375
+Georgia,Europe & Central Asia,2016,4130.0,4.448386192321777,79.375
+Georgia,Europe & Central Asia,2017,4330.0,4.450774669647217,79.375
+Georgia,Europe & Central Asia,2018,4540.0,4.659097194671631,79.375
+Georgia,Europe & Central Asia,2019,4770.0,4.891835689544678,79.375
+Georgia,Europe & Central Asia,2020,4490.0,5.123143196105957,85.625
+Germany,High income: OECD,2005,35300.0,6.619549751281738,79.375
+Germany,High income: OECD,2007,37800.0,6.4168195724487305,79.375
+Germany,High income: OECD,2008,38300.0,6.521790027618408,91.25
+Germany,High income: OECD,2009,36200.0,6.641493320465088,91.25
+Germany,High income: OECD,2010,37700.0,6.724531173706055,94.375
+Germany,High income: OECD,2011,40000.0,6.621312141418457,94.375
+Germany,High income: OECD,2012,40100.0,6.702362060546875,94.375
+Germany,High income: OECD,2013,40100.0,6.96512508392334,94.375
+Germany,High income: OECD,2014,40800.0,6.9842143058776855,94.375
+Germany,High income: OECD,2015,41100.0,7.037137508392334,94.375
+Germany,High income: OECD,2016,41700.0,6.873763084411621,94.375
+Germany,High income: OECD,2017,42600.0,7.074324607849121,94.375
+Germany,High income: OECD,2018,43000.0,7.118364334106445,94.375
+Germany,High income: OECD,2019,43300.0,7.035472393035889,97.5
+Germany,High income: OECD,2020,41300.0,7.3118977546691895,97.5
+Ghana,Sub-Saharan Africa,2006,1170.0,4.535019874572754,72.5
+Ghana,Sub-Saharan Africa,2007,1190.0,5.220148086547852,72.5
+Ghana,Sub-Saharan Africa,2008,1270.0,4.965134620666504,75.0
+Ghana,Sub-Saharan Africa,2009,1300.0,4.197695732116699,75.0
+Ghana,Sub-Saharan Africa,2010,1360.0,4.6062517166137695,75.0
+Ghana,Sub-Saharan Africa,2011,1520.0,5.608199596405029,75.0
+Ghana,Sub-Saharan Africa,2012,1620.0,5.057261943817139,75.0
+Ghana,Sub-Saharan Africa,2013,1700.0,4.965053081512451,75.0
+Ghana,Sub-Saharan Africa,2014,1710.0,3.860351085662842,75.0
+Ghana,Sub-Saharan Africa,2015,1710.0,3.9859161376953125,75.0
+Ghana,Sub-Saharan Africa,2016,1720.0,4.514411449432373,75.0
+Ghana,Sub-Saharan Africa,2017,1820.0,5.481310844421387,75.0
+Ghana,Sub-Saharan Africa,2018,1890.0,5.003693103790283,75.0
+Ghana,Sub-Saharan Africa,2019,1970.0,4.9668097496032715,75.0
+Ghana,Sub-Saharan Africa,2020,1940.0,5.319483280181885,75.0
+Greece,High income: OECD,2005,22200.0,6.006309986114502,73.125
+Greece,High income: OECD,2007,24100.0,6.646961212158203,73.125
+Greece,High income: OECD,2009,22800.0,6.038574695587158,85.0
+Greece,High income: OECD,2010,21600.0,5.8395586013793945,85.0
+Greece,High income: OECD,2011,19400.0,5.372039794921875,88.125
+Greece,High income: OECD,2012,18100.0,5.096354007720947,97.5
+Greece,High income: OECD,2013,17800.0,4.720251083374023,97.5
+Greece,High income: OECD,2014,18000.0,4.756237030029297,97.5
+Greece,High income: OECD,2015,18100.0,5.622519016265869,97.5
+Greece,High income: OECD,2016,18000.0,5.302619457244873,97.5
+Greece,High income: OECD,2017,18300.0,5.1482415199279785,97.5
+Greece,High income: OECD,2018,18600.0,5.409289360046387,97.5
+Greece,High income: OECD,2019,19000.0,5.952157497406006,97.5
+Greece,High income: OECD,2020,17400.0,5.787615776062012,97.5
+Guatemala,Latin America & Caribbean,2006,3430.0,5.901429176330566,68.125
+Guatemala,Latin America & Caribbean,2007,3570.0,6.329581260681152,68.125
+Guatemala,Latin America & Caribbean,2008,3620.0,6.414494514465332,68.125
+Guatemala,Latin America & Caribbean,2009,3570.0,6.451916217803955,70.625
+Guatemala,Latin America & Caribbean,2010,3610.0,6.289748668670654,70.625
+Guatemala,Latin America & Caribbean,2011,3690.0,5.743353843688965,70.625
+Guatemala,Latin America & Caribbean,2012,3730.0,5.855717182159424,70.625
+Guatemala,Latin America & Caribbean,2013,3800.0,5.9846014976501465,70.625
+Guatemala,Latin America & Caribbean,2014,3900.0,6.5360307693481445,70.625
+Guatemala,Latin America & Caribbean,2015,3990.0,6.464986801147461,70.625
+Guatemala,Latin America & Caribbean,2016,4030.0,6.358916282653809,70.625
+Guatemala,Latin America & Caribbean,2017,4090.0,6.325118541717529,70.625
+Guatemala,Latin America & Caribbean,2018,4160.0,6.626591682434082,70.625
+Guatemala,Latin America & Caribbean,2019,4250.0,6.2621750831604,70.625
+Guinea,Sub-Saharan Africa,2011,712.0,4.044569492340088,46.875
+Guinea,Sub-Saharan Africa,2012,738.0,3.651554822921753,46.875
+Guinea,Sub-Saharan Africa,2013,750.0,3.9017930030822754,46.875
+Guinea,Sub-Saharan Africa,2014,760.0,3.412482500076294,46.875
+Guinea,Sub-Saharan Africa,2015,769.0,3.5046935081481934,61.875
+Guinea,Sub-Saharan Africa,2016,830.0,3.6028547286987305,61.875
+Guinea,Sub-Saharan Africa,2017,891.0,4.873722553253174,61.875
+Guinea,Sub-Saharan Africa,2018,921.0,5.252226829528809,65.0
+Guinea,Sub-Saharan Africa,2019,946.0,4.767684459686279,65.0
+Guyana,Latin America & Caribbean,2007,4440.0,5.992826461791992,86.875
+Haiti,Latin America & Caribbean,2006,1240.0,3.7541561126708984,61.25
+Haiti,Latin America & Caribbean,2008,1300.0,3.8463292121887207,61.25
+Haiti,Latin America & Caribbean,2010,1290.0,3.7659988403320312,61.25
+Haiti,Latin America & Caribbean,2011,1350.0,4.844573974609375,61.25
+Haiti,Latin America & Caribbean,2012,1340.0,4.413475036621094,61.25
+Haiti,Latin America & Caribbean,2013,1360.0,4.621962070465088,61.25
+Haiti,Latin America & Caribbean,2014,1390.0,3.8887784481048584,61.25
+Haiti,Latin America & Caribbean,2015,1390.0,3.5697624683380127,61.25
+Haiti,Latin America & Caribbean,2016,1390.0,3.3523001670837402,61.25
+Haiti,Latin America & Caribbean,2017,1410.0,3.8238656520843506,61.25
+Haiti,Latin America & Caribbean,2018,1410.0,3.6149280071258545,63.75
+Honduras,Latin America & Caribbean,2006,2060.0,5.396519660949707,66.25
+Honduras,Latin America & Caribbean,2007,2140.0,5.097154140472412,66.25
+Honduras,Latin America & Caribbean,2008,2180.0,5.420331001281738,66.25
+Honduras,Latin America & Caribbean,2009,2090.0,6.033189296722412,69.375
+Honduras,Latin America & Caribbean,2010,2120.0,5.86613130569458,69.375
+Honduras,Latin America & Caribbean,2011,2160.0,4.961031436920166,69.375
+Honduras,Latin America & Caribbean,2012,2210.0,4.602218151092529,69.375
+Honduras,Latin America & Caribbean,2013,2230.0,4.713358402252197,69.375
+Honduras,Latin America & Caribbean,2014,2260.0,5.055726051330566,75.0
+Honduras,Latin America & Caribbean,2015,2300.0,4.8454365730285645,75.0
+Honduras,Latin America & Caribbean,2016,2350.0,5.6481547355651855,75.0
+Honduras,Latin America & Caribbean,2017,2420.0,6.019985675811768,75.0
+Honduras,Latin America & Caribbean,2018,2480.0,5.908423900604248,75.0
+Honduras,Latin America & Caribbean,2019,2500.0,5.930051326751709,75.0
+Hungary,High income: OECD,2005,11300.0,5.193933486938477,75.625
+Hungary,High income: OECD,2007,11800.0,4.953917026519775,81.875
+Hungary,High income: OECD,2009,11100.0,4.8946003913879395,81.875
+Hungary,High income: OECD,2010,11300.0,4.725132465362549,91.25
+Hungary,High income: OECD,2011,11500.0,4.9176025390625,93.75
+Hungary,High income: OECD,2012,11400.0,4.683358192443848,93.75
+Hungary,High income: OECD,2013,11700.0,4.914466857910156,96.875
+Hungary,High income: OECD,2014,12200.0,5.180563449859619,96.875
+Hungary,High income: OECD,2015,12700.0,5.344383239746094,96.875
+Hungary,High income: OECD,2016,13000.0,5.448901653289795,96.875
+Hungary,High income: OECD,2017,13600.0,6.065038681030273,96.875
+Hungary,High income: OECD,2018,14400.0,5.9357709884643555,96.875
+Hungary,High income: OECD,2019,15000.0,6.000259876251221,96.875
+Hungary,High income: OECD,2020,14300.0,6.038049697875977,96.875
+Iceland,High income: OECD,2008,53800.0,6.888284206390381,94.375
+Iceland,High income: OECD,2012,49200.0,7.590660095214844,94.375
+Iceland,High income: OECD,2013,50900.0,7.501394271850586,96.875
+Iceland,High income: OECD,2015,53000.0,7.49807071685791,96.875
+Iceland,High income: OECD,2016,55500.0,7.510034561157227,96.875
+Iceland,High income: OECD,2017,56500.0,7.4762139320373535,100.0
+Iceland,High income: OECD,2019,57800.0,7.532504558563232,100.0
+Iceland,High income: OECD,2020,53200.0,7.575489521026611,100.0
+India,South Asia,2006,1010.0,5.348258972167969,62.5
+India,South Asia,2007,1080.0,5.026793479919434,62.5
+India,South Asia,2008,1090.0,5.1458330154418945,62.5
+India,South Asia,2009,1160.0,4.521517753601074,62.5
+India,South Asia,2010,1240.0,4.989277362823486,62.5
+India,South Asia,2011,1290.0,4.634871482849121,62.5
+India,South Asia,2012,1350.0,4.720146656036377,62.5
+India,South Asia,2013,1420.0,4.427788734436035,62.5
+India,South Asia,2014,1500.0,4.424379348754883,68.75
+India,South Asia,2015,1610.0,4.342079162597656,68.75
+India,South Asia,2016,1720.0,4.179177284240723,68.75
+India,South Asia,2017,1820.0,4.046111106872559,68.75
+India,South Asia,2018,1920.0,3.818068742752075,71.25
+India,South Asia,2019,1970.0,3.248769760131836,74.375
+India,South Asia,2020,1800.0,4.225281238555908,74.375
+Indonesia,East Asia & Pacific,2006,2290.0,4.9469780921936035,64.375
+Indonesia,East Asia & Pacific,2007,2400.0,5.1012139320373535,64.375
+Indonesia,East Asia & Pacific,2008,2510.0,4.815309524536133,64.375
+Indonesia,East Asia & Pacific,2009,2600.0,5.472361087799072,64.375
+Indonesia,East Asia & Pacific,2010,2720.0,5.45729923248291,64.375
+Indonesia,East Asia & Pacific,2011,2850.0,5.172608375549316,64.375
+Indonesia,East Asia & Pacific,2012,2980.0,5.36777400970459,64.375
+Indonesia,East Asia & Pacific,2013,3100.0,5.292237758636475,64.375
+Indonesia,East Asia & Pacific,2014,3220.0,5.597375392913818,64.375
+Indonesia,East Asia & Pacific,2015,3330.0,5.042799949645996,64.375
+Indonesia,East Asia & Pacific,2016,3460.0,5.136325359344482,64.375
+Indonesia,East Asia & Pacific,2017,3590.0,5.0984015464782715,64.375
+Indonesia,East Asia & Pacific,2018,3730.0,5.340295791625977,64.375
+Indonesia,East Asia & Pacific,2019,3880.0,5.346512794494629,64.375
+Iran,Middle East & North Africa,2005,4630.0,5.30819034576416,26.25
+Iran,Middle East & North Africa,2007,5150.0,5.336371421813965,26.25
+Iran,Middle East & North Africa,2008,5100.0,5.128988265991211,26.25
+Iran,Middle East & North Africa,2011,5410.0,4.767507076263428,28.75
+Iran,Middle East & North Africa,2012,4950.0,4.6089277267456055,28.75
+Iran,Middle East & North Africa,2013,4880.0,5.1395792961120605,28.75
+Iran,Middle East & North Africa,2014,5040.0,4.682224273681641,28.75
+Iran,Middle East & North Africa,2015,4900.0,4.749955654144287,31.25
+Iran,Middle East & North Africa,2016,5490.0,4.652730941772461,31.25
+Iran,Middle East & North Africa,2017,5610.0,4.716783046722412,31.25
+Iran,Middle East & North Africa,2018,5200.0,4.278117656707764,31.25
+Iran,Middle East & North Africa,2019,4790.0,5.00614595413208,31.25
+Iran,Middle East & North Africa,2020,4800.0,4.864528179168701,31.25
+Iraq,Middle East & North Africa,2008,3860.0,4.589844703674316,33.125
+Iraq,Middle East & North Africa,2009,3910.0,4.7753167152404785,33.125
+Iraq,Middle East & North Africa,2010,4050.0,5.065462112426758,33.125
+Iraq,Middle East & North Africa,2011,4220.0,4.725366115570068,33.125
+Iraq,Middle East & North Africa,2012,4630.0,4.65950870513916,33.125
+Iraq,Middle East & North Africa,2013,4790.0,4.725017070770264,33.125
+Iraq,Middle East & North Africa,2014,4630.0,4.541502475738525,33.125
+Iraq,Middle East & North Africa,2015,4690.0,4.493377208709717,33.125
+Iraq,Middle East & North Africa,2016,5180.0,4.412537097930908,33.125
+Iraq,Middle East & North Africa,2017,4960.0,4.462399005889893,45.0
+Iraq,Middle East & North Africa,2018,4790.0,4.8864006996154785,45.0
+Iraq,Middle East & North Africa,2020,4290.0,4.785165309906006,45.0
+Ireland,High income: OECD,2006,50400.0,7.144246578216553,95.0
+Ireland,High income: OECD,2008,48300.0,7.568029880523682,95.0
+Ireland,High income: OECD,2009,45400.0,7.0459113121032715,95.0
+Ireland,High income: OECD,2010,45900.0,7.257389545440674,95.0
+Ireland,High income: OECD,2011,46200.0,7.006904125213623,95.0
+Ireland,High income: OECD,2012,46000.0,6.9646453857421875,95.0
+Ireland,High income: OECD,2013,46300.0,6.760085105895996,95.0
+Ireland,High income: OECD,2014,50000.0,7.018379211425781,95.0
+Ireland,High income: OECD,2015,62000.0,6.830125331878662,95.0
+Ireland,High income: OECD,2016,62500.0,7.040731430053711,95.0
+Ireland,High income: OECD,2017,67400.0,7.060155391693115,95.0
+Ireland,High income: OECD,2018,72600.0,6.962335586547852,97.5
+Ireland,High income: OECD,2019,75100.0,7.254841327667236,97.5
+Ireland,High income: OECD,2020,78600.0,7.03493070602417,97.5
+Israel,High income: OECD,2006,30900.0,7.173417091369629,75.0
+Israel,High income: OECD,2007,32100.0,6.8411149978637695,77.5
+Israel,High income: OECD,2008,32500.0,7.261261463165283,77.5
+Israel,High income: OECD,2009,32000.0,7.3529791831970215,77.5
+Israel,High income: OECD,2010,33200.0,7.358916282653809,77.5
+Israel,High income: OECD,2011,34100.0,7.43314790725708,77.5
+Israel,High income: OECD,2012,34300.0,7.110854625701904,77.5
+Israel,High income: OECD,2013,35100.0,7.320563316345215,77.5
+Israel,High income: OECD,2014,35700.0,7.400570392608643,77.5
+Israel,High income: OECD,2015,35800.0,7.079411029815674,80.625
+Israel,High income: OECD,2016,36500.0,7.159010887145996,80.625
+Israel,High income: OECD,2017,37000.0,7.33103609085083,80.625
+Israel,High income: OECD,2018,37600.0,6.927178859710693,80.625
+Israel,High income: OECD,2019,38200.0,7.331779956817627,80.625
+Israel,High income: OECD,2020,36600.0,7.194928169250488,80.625
+Italy,High income: OECD,2005,33200.0,6.85378360748291,80.0
+Italy,High income: OECD,2007,34100.0,6.5744123458862305,89.375
+Italy,High income: OECD,2008,33500.0,6.779774188995361,89.375
+Italy,High income: OECD,2009,31600.0,6.333800315856934,89.375
+Italy,High income: OECD,2010,32000.0,6.354238033294678,89.375
+Italy,High income: OECD,2011,32200.000000000004,6.05708646774292,89.375
+Italy,High income: OECD,2012,31200.0,5.839313983917236,89.375
+Italy,High income: OECD,2013,30200.0,6.009373664855957,89.375
+Italy,High income: OECD,2014,30000.0,6.026585102081299,91.875
+Italy,High income: OECD,2015,30200.0,5.847683906555176,94.375
+Italy,High income: OECD,2016,30700.0,5.954524040222168,94.375
+Italy,High income: OECD,2017,31200.0,6.1988701820373535,94.375
+Italy,High income: OECD,2018,31600.0,6.516526699066162,94.375
+Italy,High income: OECD,2019,32000.0,6.4454169273376465,97.5
+Italy,High income: OECD,2020,29300.0,6.488356113433838,97.5
+Ivory Coast,Sub-Saharan Africa,2009,1640.0,4.197181701660156,69.375
+Ivory Coast,Sub-Saharan Africa,2013,1750.0,3.739365577697754,69.375
+Ivory Coast,Sub-Saharan Africa,2014,1860.0,3.570368528366089,78.125
+Ivory Coast,Sub-Saharan Africa,2015,1970.0,4.445038795471191,78.125
+Ivory Coast,Sub-Saharan Africa,2016,2060.0,4.542545795440674,78.125
+Ivory Coast,Sub-Saharan Africa,2017,2160.0,5.0377349853515625,78.125
+Ivory Coast,Sub-Saharan Africa,2018,2250.0,5.268374919891357,78.125
+Ivory Coast,Sub-Saharan Africa,2019,2330.0,5.392012119293213,78.125
+Ivory Coast,Sub-Saharan Africa,2020,2310.0,5.256503582000732,83.125
+Jamaica,Latin America & Caribbean,2006,5260.0,6.207881927490234,59.375
+Jamaica,Latin America & Caribbean,2011,4950.0,5.374446392059326,61.875
+Jamaica,Latin America & Caribbean,2013,4880.0,5.708886623382568,61.875
+Jamaica,Latin America & Caribbean,2014,4890.0,5.3105387687683105,61.875
+Jamaica,Latin America & Caribbean,2017,4970.0,5.889759063720703,68.125
+Jamaica,Latin America & Caribbean,2019,5070.0,6.309238910675049,68.125
+Japan,High income: OECD,2005,33100.0,6.515817165374756,79.375
+Japan,High income: OECD,2007,34000.0,6.2381978034973145,79.375
+Japan,High income: OECD,2008,33600.0,5.910679340362549,79.375
+Japan,High income: OECD,2009,31700.0,5.844999313354492,79.375
+Japan,High income: OECD,2010,32900.0,6.056752681732178,79.375
+Japan,High income: OECD,2011,33000.0,6.26279354095459,81.875
+Japan,High income: OECD,2012,33500.0,5.968216419219971,81.875
+Japan,High income: OECD,2013,34200.0,5.959361553192139,81.875
+Japan,High income: OECD,2014,34400.0,5.92262077331543,81.875
+Japan,High income: OECD,2015,35000.0,5.8796844482421875,81.875
+Japan,High income: OECD,2016,35300.0,5.95465087890625,81.875
+Japan,High income: OECD,2017,35900.0,5.9106764793396,81.875
+Japan,High income: OECD,2018,36200.0,5.793575286865234,81.875
+Japan,High income: OECD,2019,36400.0,5.908039093017578,81.875
+Japan,High income: OECD,2020,34400.0,6.1179633140563965,81.875
+Jordan,Middle East & North Africa,2005,4340.0,6.2946600914001465,26.25
+Jordan,Middle East & North Africa,2007,4680.0,5.598057270050049,26.25
+Jordan,Middle East & North Africa,2008,4790.0,4.930058002471924,26.25
+Jordan,Middle East & North Africa,2009,4780.0,5.99985933303833,28.75
+Jordan,Middle East & North Africa,2010,4640.0,5.569942474365234,28.75
+Jordan,Middle East & North Africa,2011,4520.0,5.539327621459961,31.875
+Jordan,Middle East & North Africa,2012,4390.0,5.131996154785156,31.875
+Jordan,Middle East & North Africa,2013,4270.0,5.171952724456787,31.875
+Jordan,Middle East & North Africa,2014,4220.0,5.333021640777588,31.875
+Jordan,Middle East & North Africa,2015,4160.0,5.404593467712402,31.875
+Jordan,Middle East & North Africa,2016,4120.0,5.271284580230713,31.875
+Jordan,Middle East & North Africa,2017,4110.0,4.808082580566406,31.875
+Jordan,Middle East & North Africa,2018,4110.0,4.6389336585998535,31.875
+Jordan,Middle East & North Africa,2019,4130.0,4.452548027038574,31.875
+Jordan,Middle East & North Africa,2020,4030.0,4.093991756439209,40.625
+Kazakhstan,Europe & Central Asia,2006,7840.0,5.475948333740234,64.375
+Kazakhstan,Europe & Central Asia,2007,8440.0,5.71855354309082,64.375
+Kazakhstan,Europe & Central Asia,2008,8550.0,5.886419773101807,67.5
+Kazakhstan,Europe & Central Asia,2009,8490.0,5.38256311416626,70.0
+Kazakhstan,Europe & Central Asia,2010,8980.0,5.514286518096924,70.0
+Kazakhstan,Europe & Central Asia,2011,9510.0,5.735662937164307,72.5
+Kazakhstan,Europe & Central Asia,2012,9820.0,5.759469509124756,72.5
+Kazakhstan,Europe & Central Asia,2013,10300.0,5.835483074188232,72.5
+Kazakhstan,Europe & Central Asia,2014,10500.0,5.970097541809082,72.5
+Kazakhstan,Europe & Central Asia,2015,10500.0,5.949995040893555,72.5
+Kazakhstan,Europe & Central Asia,2016,10500.0,5.5335516929626465,72.5
+Kazakhstan,Europe & Central Asia,2017,10800.0,5.882351398468018,69.375
+Kazakhstan,Europe & Central Asia,2018,11100.0,6.007636070251465,69.375
+Kazakhstan,Europe & Central Asia,2019,11400.0,6.272268295288086,69.375
+Kazakhstan,Europe & Central Asia,2020,11000.0,6.168269157409668,69.375
+Kenya,Sub-Saharan Africa,2006,1080.0,4.223234176635742,51.875
+Kenya,Sub-Saharan Africa,2007,1130.0,4.575657844543457,51.875
+Kenya,Sub-Saharan Africa,2008,1100.0,4.015274524688721,58.125
+Kenya,Sub-Saharan Africa,2009,1100.0,4.270434856414795,75.625
+Kenya,Sub-Saharan Africa,2010,1160.0,4.255859375,75.625
+Kenya,Sub-Saharan Africa,2011,1200.0,4.405310153961182,75.625
+Kenya,Sub-Saharan Africa,2012,1220.0,4.547335147857666,75.625
+Kenya,Sub-Saharan Africa,2013,1260.0,3.7953832149505615,75.625
+Kenya,Sub-Saharan Africa,2014,1300.0,4.9045796394348145,75.625
+Kenya,Sub-Saharan Africa,2015,1340.0,4.3576178550720215,78.125
+Kenya,Sub-Saharan Africa,2016,1380.0,4.396127700805664,78.125
+Kenya,Sub-Saharan Africa,2017,1410.0,4.475654125213623,80.625
+Kenya,Sub-Saharan Africa,2018,1470.0,4.655702590942383,80.625
+Kenya,Sub-Saharan Africa,2019,1510.0,4.618850231170654,80.625
+Kenya,Sub-Saharan Africa,2020,1480.0,4.546584129333496,80.625
+Kuwait,Middle East & North Africa,2006,41000.0,6.075547218322754,26.25
+Kuwait,Middle East & North Africa,2009,34800.0,6.5852460861206055,26.25
+Kuwait,Middle East & North Africa,2010,32000.0,6.798151016235352,26.25
+Kuwait,Middle East & North Africa,2011,33200.0,6.377699375152588,29.375
+Kuwait,Middle East & North Africa,2012,33500.0,6.221094608306885,29.375
+Kuwait,Middle East & North Africa,2013,32100.0,6.4800310134887695,29.375
+Kuwait,Middle East & North Africa,2014,30900.0,6.18013858795166,29.375
+Kuwait,Middle East & North Africa,2015,29900.0,6.146031856536865,29.375
+Kuwait,Middle East & North Africa,2016,29800.0,5.947194576263428,29.375
+Kuwait,Middle East & North Africa,2017,27700.0,6.093905448913574,29.375
+Kuwait,Middle East & North Africa,2019,27200.0,6.106119632720947,29.375
+Kyrgyzstan,Europe & Central Asia,2006,837.0,4.641398906707764,76.25
+Kyrgyzstan,Europe & Central Asia,2007,900.0,4.697761535644531,76.25
+Kyrgyzstan,Europe & Central Asia,2008,966.0,4.736588001251221,73.75
+Kyrgyzstan,Europe & Central Asia,2009,982.0,5.069053649902344,73.75
+Kyrgyzstan,Europe & Central Asia,2010,966.0,4.996410846710205,76.875
+Kyrgyzstan,Europe & Central Asia,2011,1010.0,4.921049118041992,76.875
+Kyrgyzstan,Europe & Central Asia,2012,994.0,5.207785606384277,76.875
+Kyrgyzstan,Europe & Central Asia,2013,1080.0,5.402426719665527,76.875
+Kyrgyzstan,Europe & Central Asia,2014,1100.0,5.252192974090576,76.875
+Kyrgyzstan,Europe & Central Asia,2015,1120.0,4.905375957489014,76.875
+Kyrgyzstan,Europe & Central Asia,2016,1150.0,4.856534004211426,76.875
+Kyrgyzstan,Europe & Central Asia,2017,1180.0,5.6295366287231445,76.875
+Kyrgyzstan,Europe & Central Asia,2018,1200.0,5.2973833084106445,76.875
+Kyrgyzstan,Europe & Central Asia,2019,1230.0,5.685220718383789,76.875
+Kyrgyzstan,Europe & Central Asia,2020,1100.0,6.24958610534668,76.875
+Laos,East Asia & Pacific,2006,1250.0,5.076225757598877,70.625
+Laos,East Asia & Pacific,2007,1320.0,5.363854885101318,73.75
+Laos,East Asia & Pacific,2008,1400.0,5.044098854064941,83.125
+Laos,East Asia & Pacific,2011,1680.0,4.703749656677246,83.125
+Laos,East Asia & Pacific,2012,1790.0,4.876084804534912,83.125
+Laos,East Asia & Pacific,2017,2370.0,4.623140811920166,88.125
+Laos,East Asia & Pacific,2018,2480.0,4.859402179718018,88.125
+Laos,East Asia & Pacific,2019,2570.0,5.1968560218811035,88.125
+Laos,East Asia & Pacific,2020,2550.0,5.284390926361084,88.125
+Latvia,High income: OECD,2006,11800.0,4.709502220153809,94.375
+Latvia,High income: OECD,2007,13100.0,4.666971683502197,94.375
+Latvia,High income: OECD,2008,12800.0,5.1453752517700195,94.375
+Latvia,High income: OECD,2009,11100.0,4.668910503387451,97.5
+Latvia,High income: OECD,2011,11800.0,4.966811656951904,97.5
+Latvia,High income: OECD,2012,12400.0,5.125025272369385,97.5
+Latvia,High income: OECD,2013,12900.0,5.069770336151123,97.5
+Latvia,High income: OECD,2014,13100.0,5.7291154861450195,97.5
+Latvia,High income: OECD,2015,13800.0,5.8805975914001465,100.0
+Latvia,High income: OECD,2016,14200.0,5.940446376800537,100.0
+Latvia,High income: OECD,2017,14800.0,5.977817535400391,100.0
+Latvia,High income: OECD,2018,15500.0,5.901154041290283,100.0
+Latvia,High income: OECD,2019,16000.0,5.969753742218018,100.0
+Latvia,High income: OECD,2020,15500.0,6.229008674621582,100.0
+Lebanon,Middle East & North Africa,2005,6690.0,5.491245269775391,50.0
+Lebanon,Middle East & North Africa,2006,6710.0,4.653103828430176,50.0
+Lebanon,Middle East & North Africa,2008,7990.0,4.594851016998291,50.0
+Lebanon,Middle East & North Africa,2009,8720.0,5.20599889755249,50.0
+Lebanon,Middle East & North Africa,2010,9150.0,5.031899452209473,50.0
+Lebanon,Middle East & North Africa,2011,8780.0,5.1875715255737305,50.0
+Lebanon,Middle East & North Africa,2012,8460.0,4.572566986083984,50.0
+Lebanon,Middle East & North Africa,2013,8230.0,4.983288764953613,50.0
+Lebanon,Middle East & North Africa,2014,7960.0,5.233025550842285,50.0
+Lebanon,Middle East & North Africa,2015,7640.0,5.171971321105957,50.0
+Lebanon,Middle East & North Africa,2016,7550.0,5.270723819732666,52.5
+Lebanon,Middle East & North Africa,2017,7500.0,5.153989791870117,52.5
+Lebanon,Middle East & North Africa,2018,7310.0,5.167186737060547,52.5
+Lebanon,Middle East & North Africa,2019,6820.0,4.024219512939453,52.5
+Lesotho,Sub-Saharan Africa,2011,1040.0,4.897514820098877,75.625
+Lesotho,Sub-Saharan Africa,2016,1180.0,3.8082048892974854,78.125
+Lesotho,Sub-Saharan Africa,2017,1130.0,3.7953007221221924,78.125
+Lesotho,Sub-Saharan Africa,2019,1100.0,3.5117805004119873,78.125
+Liberia,Sub-Saharan Africa,2007,599.0,3.7014012336730957,66.25
+Liberia,Sub-Saharan Africa,2008,616.0,4.221354007720947,66.25
+Liberia,Sub-Saharan Africa,2010,638.0,4.196063041687012,66.25
+Liberia,Sub-Saharan Africa,2014,729.0,4.5714192390441895,66.25
+Liberia,Sub-Saharan Africa,2015,710.0,2.7015912532806396,66.25
+Liberia,Sub-Saharan Africa,2016,682.0,3.3546760082244873,66.25
+Liberia,Sub-Saharan Africa,2017,681.0,4.424490928649902,81.25
+Liberia,Sub-Saharan Africa,2018,673.0,4.134852886199951,81.25
+Liberia,Sub-Saharan Africa,2019,642.0,5.121460914611816,83.75
+Libya,Middle East & North Africa,2012,7400.0,5.754394054412842,50.0
+Libya,Middle East & North Africa,2015,4340.0,5.6154046058654785,50.0
+Libya,Middle East & North Africa,2016,4170.0,5.4335832595825195,50.0
+Libya,Middle East & North Africa,2017,5210.0,5.646852493286133,50.0
+Libya,Middle East & North Africa,2018,5910.0,5.4939775466918945,50.0
+Libya,Middle East & North Africa,2019,5970.0,5.330222129821777,50.0
+Lithuania,High income: OECD,2006,10700.0,5.954442977905273,88.75
+Lithuania,High income: OECD,2007,12000.0,5.808284759521484,88.75
+Lithuania,High income: OECD,2008,12400.0,5.55392599105835,91.25
+Lithuania,High income: OECD,2009,10700.0,5.466920852661133,91.25
+Lithuania,High income: OECD,2010,11100.0,5.06582498550415,91.25
+Lithuania,High income: OECD,2011,12000.0,5.432437419891357,91.25
+Lithuania,High income: OECD,2012,12700.0,5.7710371017456055,91.25
+Lithuania,High income: OECD,2013,13300.0,5.595689296722412,93.75
+Lithuania,High income: OECD,2014,13800.0,6.125723838806152,93.75
+Lithuania,High income: OECD,2015,14300.0,5.71137809753418,93.75
+Lithuania,High income: OECD,2016,14800.0,5.8655524253845215,93.75
+Lithuania,High income: OECD,2017,15700.0,6.272940635681152,93.75
+Lithuania,High income: OECD,2018,16400.0,6.3088788986206055,93.75
+Lithuania,High income: OECD,2019,17200.0,6.064097881317139,93.75
+Lithuania,High income: OECD,2020,17000.0,6.391378879547119,93.75
+Luxembourg,High income: OECD,2009,96000.0,6.957920074462891,97.5
+Luxembourg,High income: OECD,2010,98900.0,7.097251892089844,97.5
+Luxembourg,High income: OECD,2011,99100.0,7.101400375366211,97.5
+Luxembourg,High income: OECD,2012,96400.0,6.964097023010254,100.0
+Luxembourg,High income: OECD,2013,97700.0,7.130809307098389,100.0
+Luxembourg,High income: OECD,2014,99500.0,6.891127109527588,100.0
+Luxembourg,High income: OECD,2015,101000.0,6.701571464538574,100.0
+Luxembourg,High income: OECD,2016,104000.0,6.96734094619751,100.0
+Luxembourg,High income: OECD,2017,103000.0,7.061380863189697,100.0
+Luxembourg,High income: OECD,2018,104000.0,7.242630958557129,100.0
+Luxembourg,High income: OECD,2019,105000.0,7.40401554107666,100.0
+Madagascar,Sub-Saharan Africa,2006,482.0,3.9797513484954834,60.625
+Madagascar,Sub-Saharan Africa,2008,514.0,4.640079021453857,60.625
+Madagascar,Sub-Saharan Africa,2011,464.0,4.381415367126465,65.625
+Madagascar,Sub-Saharan Africa,2012,465.0,3.550609588623047,65.625
+Madagascar,Sub-Saharan Africa,2013,463.0,3.8156070709228516,65.625
+Madagascar,Sub-Saharan Africa,2014,465.0,3.6756269931793213,65.625
+Madagascar,Sub-Saharan Africa,2015,467.0,3.5925140380859375,71.875
+Madagascar,Sub-Saharan Africa,2016,473.0,3.6630859375,71.875
+Madagascar,Sub-Saharan Africa,2017,479.0,4.078620433807373,71.875
+Madagascar,Sub-Saharan Africa,2018,481.0,4.070586681365967,71.875
+Madagascar,Sub-Saharan Africa,2019,489.0,4.33908748626709,71.875
+Malawi,Sub-Saharan Africa,2006,295.0,3.8298680782318115,60.0
+Malawi,Sub-Saharan Africa,2007,314.0,4.891036510467529,60.0
+Malawi,Sub-Saharan Africa,2009,346.0,5.148239612579346,62.5
+Malawi,Sub-Saharan Africa,2011,366.0,3.9460625648498535,62.5
+Malawi,Sub-Saharan Africa,2012,362.0,4.279269695281982,62.5
+Malawi,Sub-Saharan Africa,2013,370.0,4.035084247589111,68.75
+Malawi,Sub-Saharan Africa,2014,381.0,4.563080310821533,75.0
+Malawi,Sub-Saharan Africa,2015,381.0,3.867638349533081,75.0
+Malawi,Sub-Saharan Africa,2016,380.0,3.4764926433563232,77.5
+Malawi,Sub-Saharan Africa,2017,384.0,3.416862964630127,77.5
+Malawi,Sub-Saharan Africa,2018,391.0,3.3346335887908936,77.5
+Malawi,Sub-Saharan Africa,2019,403.0,3.869123697280884,77.5
+Malaysia,East Asia & Pacific,2006,7530.0,6.011716842651367,46.875
+Malaysia,East Asia & Pacific,2007,7850.0,6.2389044761657715,46.875
+Malaysia,East Asia & Pacific,2008,8070.0,5.806781768798828,46.875
+Malaysia,East Asia & Pacific,2009,7810.0,5.384701728820801,46.875
+Malaysia,East Asia & Pacific,2010,8250.0,5.580281734466553,46.875
+Malaysia,East Asia & Pacific,2011,8550.0,5.786367416381836,46.875
+Malaysia,East Asia & Pacific,2012,8890.0,5.914283752441406,46.875
+Malaysia,East Asia & Pacific,2013,9180.0,5.770199775695801,50.0
+Malaysia,East Asia & Pacific,2014,9600.0,5.962921619415283,50.0
+Malaysia,East Asia & Pacific,2015,9960.0,6.3221211433410645,50.0
+Malaysia,East Asia & Pacific,2018,11100.0,5.338817596435547,50.0
+Malaysia,East Asia & Pacific,2019,11400.0,5.427954196929932,50.0
+Maldives,South Asia,2018,9820.0,5.197574615478516,73.75
+Mali,Sub-Saharan Africa,2006,697.0,4.014075756072998,49.375
+Mali,Sub-Saharan Africa,2008,707.0,4.114664077758789,49.375
+Mali,Sub-Saharan Africa,2009,717.0,3.9765985012054443,49.375
+Mali,Sub-Saharan Africa,2010,732.0,3.7623050212860107,49.375
+Mali,Sub-Saharan Africa,2011,732.0,4.66683292388916,49.375
+Mali,Sub-Saharan Africa,2012,705.0,4.313016891479492,49.375
+Mali,Sub-Saharan Africa,2013,701.0,3.6762771606445312,54.375
+Mali,Sub-Saharan Africa,2014,729.0,3.9747142791748047,54.375
+Mali,Sub-Saharan Africa,2015,751.0,4.582098484039307,54.375
+Mali,Sub-Saharan Africa,2016,772.0,4.016027927398682,54.375
+Mali,Sub-Saharan Africa,2017,789.0,4.74185037612915,54.375
+Mali,Sub-Saharan Africa,2018,802.0,4.415729522705078,54.375
+Mali,Sub-Saharan Africa,2019,815.0,4.987991809844971,60.625
+Malta,Middle East & North Africa,2009,19600.0,6.327639579772949,77.5
+Malta,Middle East & North Africa,2010,20600.0,5.773874759674072,77.5
+Malta,Middle East & North Africa,2011,20600.0,6.154718399047852,77.5
+Malta,Middle East & North Africa,2012,21200.0,5.96287202835083,77.5
+Malta,Middle East & North Africa,2013,22100.0,6.379924774169922,82.5
+Malta,Middle East & North Africa,2014,23300.0,6.452117919921875,82.5
+Malta,Middle East & North Africa,2015,24900.0,6.613394260406494,88.75
+Malta,Middle East & North Africa,2016,25400.0,6.590842247009277,88.75
+Malta,Middle East & North Africa,2017,26700.0,6.675665855407715,88.75
+Malta,Middle East & North Africa,2018,27100.0,6.909710884094238,88.75
+Malta,Middle East & North Africa,2019,27500.0,6.732977390289307,88.75
+Malta,Middle East & North Africa,2020,24500.0,6.156822681427002,88.75
+Mauritania,Sub-Saharan Africa,2007,1510.0,4.149043083190918,41.875
+Mauritania,Sub-Saharan Africa,2008,1460.0,4.248075008392334,41.875
+Mauritania,Sub-Saharan Africa,2009,1420.0,4.500431537628174,41.875
+Mauritania,Sub-Saharan Africa,2010,1420.0,4.7723069190979,41.875
+Mauritania,Sub-Saharan Africa,2011,1430.0,4.784804344177246,41.875
+Mauritania,Sub-Saharan Africa,2012,1450.0,4.673203945159912,41.875
+Mauritania,Sub-Saharan Africa,2013,1470.0,4.199015140533447,41.875
+Mauritania,Sub-Saharan Africa,2014,1490.0,4.482805252075195,41.875
+Mauritania,Sub-Saharan Africa,2015,1520.0,3.922664165496826,41.875
+Mauritania,Sub-Saharan Africa,2016,1500.0,4.47214937210083,48.125
+Mauritania,Sub-Saharan Africa,2017,1510.0,4.678159713745117,48.125
+Mauritania,Sub-Saharan Africa,2018,1500.0,4.313615322113037,48.125
+Mauritania,Sub-Saharan Africa,2019,1540.0,4.152619361877441,48.125
+Mauritius,Sub-Saharan Africa,2011,8120.0,5.4770731925964355,86.25
+Mauritius,Sub-Saharan Africa,2014,8950.0,5.647779941558838,89.375
+Mauritius,Sub-Saharan Africa,2016,9610.0,5.610003471374512,89.375
+Mauritius,Sub-Saharan Africa,2017,9970.0,6.174117565155029,91.875
+Mauritius,Sub-Saharan Africa,2018,10300.0,5.881740570068359,91.875
+Mauritius,Sub-Saharan Africa,2019,10600.0,6.2411651611328125,91.875
+Mauritius,Sub-Saharan Africa,2020,9060.0,6.015300273895264,91.875
+Mexico,Latin America & Caribbean,2005,8880.0,6.580657958984375,72.5
+Mexico,Latin America & Caribbean,2007,9210.0,6.525378227233887,72.5
+Mexico,Latin America & Caribbean,2008,9180.0,6.829036235809326,75.0
+Mexico,Latin America & Caribbean,2009,8570.0,6.9628190994262695,75.0
+Mexico,Latin America & Caribbean,2010,8880.0,6.802388668060303,77.5
+Mexico,Latin America & Caribbean,2011,9080.0,6.909515380859375,77.5
+Mexico,Latin America & Caribbean,2012,9280.0,7.32018518447876,77.5
+Mexico,Latin America & Caribbean,2013,9280.0,7.442546367645264,77.5
+Mexico,Latin America & Caribbean,2014,9430.0,6.679831027984619,85.625
+Mexico,Latin America & Caribbean,2015,9620.0,6.2362871170043945,88.75
+Mexico,Latin America & Caribbean,2016,9750.0,6.8241729736328125,88.75
+Mexico,Latin America & Caribbean,2017,9840.0,6.410299301147461,88.75
+Mexico,Latin America & Caribbean,2018,9950.0,6.549578666687012,88.75
+Mexico,Latin America & Caribbean,2019,9830.0,6.431945323944092,88.75
+Mexico,Latin America & Caribbean,2020,8930.0,5.964221000671387,88.75
+Moldova,Europe & Central Asia,2006,2000.0,5.102071285247803,66.875
+Moldova,Europe & Central Asia,2007,2070.0,4.774918079376221,73.125
+Moldova,Europe & Central Asia,2008,2230.0,5.502756118774414,73.125
+Moldova,Europe & Central Asia,2009,2100.0,5.5543742179870605,75.625
+Moldova,Europe & Central Asia,2010,2250.0,5.589736461639404,75.625
+Moldova,Europe & Central Asia,2011,2390.0,5.792262554168701,75.625
+Moldova,Europe & Central Asia,2012,2370.0,5.995712757110596,78.75
+Moldova,Europe & Central Asia,2013,2590.0,5.756059169769287,78.75
+Moldova,Europe & Central Asia,2014,2720.0,5.91705846786499,78.75
+Moldova,Europe & Central Asia,2015,2730.0,6.017472267150879,78.75
+Moldova,Europe & Central Asia,2016,2890.0,5.577784061431885,78.75
+Moldova,Europe & Central Asia,2017,3070.0,5.325530529022217,78.75
+Moldova,Europe & Central Asia,2018,3260.0,5.682277202606201,81.25
+Moldova,Europe & Central Asia,2019,3430.0,5.803450584411621,84.375
+Moldova,Europe & Central Asia,2020,3250.0,5.811628818511963,84.375
+Mongolia,East Asia & Pacific,2007,2440.0,4.6090593338012695,67.5
+Mongolia,East Asia & Pacific,2008,2620.0,4.4930100440979,67.5
+Mongolia,East Asia & Pacific,2010,2660.0,4.58552360534668,70.625
+Mongolia,East Asia & Pacific,2011,3060.0,5.0311737060546875,70.625
+Mongolia,East Asia & Pacific,2012,3370.0,4.88515043258667,80.0
+Mongolia,East Asia & Pacific,2013,3690.0,4.912928104400635,80.0
+Mongolia,East Asia & Pacific,2014,3900.0,4.824834823608398,80.0
+Mongolia,East Asia & Pacific,2015,3920.0,4.982719898223877,80.0
+Mongolia,East Asia & Pacific,2016,3890.0,5.056999683380127,80.0
+Mongolia,East Asia & Pacific,2017,4020.0,5.333850383758545,80.0
+Mongolia,East Asia & Pacific,2018,4240.0,5.464622974395752,82.5
+Mongolia,East Asia & Pacific,2019,4380.0,5.562905311584473,82.5
+Mongolia,East Asia & Pacific,2020,4080.0,6.011364936828613,82.5
+Montenegro,Europe & Central Asia,2007,5800.0,5.196315288543701,67.5
+Montenegro,Europe & Central Asia,2009,5830.0,4.801060199737549,70.625
+Montenegro,Europe & Central Asia,2010,5980.0,5.45503044128418,70.625
+Montenegro,Europe & Central Asia,2011,6170.0,5.223116874694824,70.625
+Montenegro,Europe & Central Asia,2012,6000.0,5.218724250793457,76.25
+Montenegro,Europe & Central Asia,2013,6200.0,5.074341773986816,78.75
+Montenegro,Europe & Central Asia,2014,6310.0,5.282720565795898,81.875
+Montenegro,Europe & Central Asia,2015,6520.0,5.1249213218688965,81.875
+Montenegro,Europe & Central Asia,2016,6710.0,5.304066181182861,81.875
+Montenegro,Europe & Central Asia,2017,7020.0,5.614798545837402,81.875
+Montenegro,Europe & Central Asia,2018,7380.0,5.6501898765563965,81.875
+Montenegro,Europe & Central Asia,2019,7680.0,5.3860249519348145,81.875
+Montenegro,Europe & Central Asia,2020,6520.0,5.72216272354126,81.875
+Morocco,Middle East & North Africa,2010,2840.0,4.383247375488281,73.125
+Morocco,Middle East & North Africa,2011,2950.0,5.084972858428955,73.125
+Morocco,Middle East & North Africa,2012,3000.0,4.969656467437744,73.125
+Morocco,Middle East & North Africa,2013,3090.0,5.142160415649414,73.125
+Morocco,Middle East & North Africa,2015,3220.0,5.163156986236572,73.125
+Morocco,Middle East & North Africa,2016,3210.0,5.386307239532471,73.125
+Morocco,Middle East & North Africa,2017,3310.0,5.312482833862305,73.125
+Morocco,Middle East & North Africa,2018,3370.0,4.896791934967041,73.125
+Morocco,Middle East & North Africa,2019,3410.0,5.056751728057861,75.625
+Morocco,Middle East & North Africa,2020,3130.0,4.80261754989624,75.625
+Mozambique,Sub-Saharan Africa,2006,409.0,4.594879627227783,59.375
+Mozambique,Sub-Saharan Africa,2007,429.0,4.832634925842285,59.375
+Mozambique,Sub-Saharan Africa,2008,448.0,4.65358304977417,59.375
+Mozambique,Sub-Saharan Africa,2011,502.0,4.97111177444458,79.375
+Mozambique,Sub-Saharan Africa,2015,590.0,4.54976749420166,79.375
+Mozambique,Sub-Saharan Africa,2017,600.0,4.279863357543945,79.375
+Mozambique,Sub-Saharan Africa,2018,603.0,4.653713703155518,79.375
+Mozambique,Sub-Saharan Africa,2019,599.0,4.932132720947266,82.5
+Myanmar,East Asia & Pacific,2012,936.0,4.438939571380615,53.75
+Myanmar,East Asia & Pacific,2013,1010.0,4.175670623779297,53.75
+Myanmar,East Asia & Pacific,2014,1080.0,4.786247253417969,58.75
+Myanmar,East Asia & Pacific,2015,1140.0,4.223846435546875,58.75
+Myanmar,East Asia & Pacific,2016,1200.0,4.623119831085205,58.75
+Myanmar,East Asia & Pacific,2017,1270.0,4.154341697692871,58.75
+Myanmar,East Asia & Pacific,2018,1350.0,4.410633087158203,58.75
+Myanmar,East Asia & Pacific,2019,1360.0,4.434237480163574,58.75
+Myanmar,East Asia & Pacific,2020,1220.0,4.431364059448242,58.75
+Namibia,Sub-Saharan Africa,2007,4010.0,4.885587215423584,73.75
+Namibia,Sub-Saharan Africa,2014,4780.0,4.573991298675537,86.25
+Namibia,Sub-Saharan Africa,2017,4670.0,4.441306114196777,86.25
+Namibia,Sub-Saharan Africa,2018,4630.0,4.83408784866333,86.25
+Namibia,Sub-Saharan Africa,2019,4520.0,4.4358110427856445,86.25
+Namibia,Sub-Saharan Africa,2020,4080.0,4.451010227203369,86.25
+Nepal,South Asia,2006,631.0,4.56659460067749,46.875
+Nepal,South Asia,2007,644.0,4.748284339904785,46.875
+Nepal,South Asia,2008,676.0,4.440526485443115,46.875
+Nepal,South Asia,2009,701.0,4.916868209838867,46.875
+Nepal,South Asia,2010,732.0,4.349675178527832,49.375
+Nepal,South Asia,2011,756.0,3.8094446659088135,49.375
+Nepal,South Asia,2012,791.0,4.233244895935059,49.375
+Nepal,South Asia,2013,821.0,4.604576587677002,49.375
+Nepal,South Asia,2014,871.0,4.975014686584473,49.375
+Nepal,South Asia,2015,902.0,4.812436580657959,49.375
+Nepal,South Asia,2016,897.0,5.099539756774902,55.625
+Nepal,South Asia,2017,965.0,4.736692428588867,55.625
+Nepal,South Asia,2018,1020.0,4.910086631774902,55.625
+Nepal,South Asia,2019,1070.0,5.448724746704102,71.875
+Netherlands,High income: OECD,2005,42200.0,7.463979244232178,89.375
+Netherlands,High income: OECD,2007,45100.0,7.451879501342773,89.375
+Netherlands,High income: OECD,2008,45900.0,7.631011962890625,92.5
+Netherlands,High income: OECD,2010,44400.0,7.501875877380371,95.0
+Netherlands,High income: OECD,2011,44900.0,7.563797950744629,95.0
+Netherlands,High income: OECD,2012,44200.0,7.470715522766113,95.0
+Netherlands,High income: OECD,2013,44000.0,7.406550407409668,95.0
+Netherlands,High income: OECD,2014,44500.0,7.321188449859619,95.0
+Netherlands,High income: OECD,2015,45200.0,7.324437141418457,95.0
+Netherlands,High income: OECD,2016,45900.0,7.540877342224121,97.5
+Netherlands,High income: OECD,2017,47000.0,7.458965301513672,97.5
+Netherlands,High income: OECD,2018,47800.0,7.463097095489502,97.5
+Netherlands,High income: OECD,2019,48400.0,7.425268650054932,97.5
+Netherlands,High income: OECD,2020,46300.0,7.504447937011719,97.5
+New Zealand,High income: OECD,2006,35600.0,7.305014133453369,89.375
+New Zealand,High income: OECD,2007,36400.0,7.604173183441162,91.875
+New Zealand,High income: OECD,2008,35700.0,7.381170749664307,91.875
+New Zealand,High income: OECD,2010,35400.0,7.223756313323975,91.875
+New Zealand,High income: OECD,2011,35900.0,7.190638065338135,91.875
+New Zealand,High income: OECD,2012,36500.0,7.249629974365234,91.875
+New Zealand,High income: OECD,2013,37200.0,7.280151844024658,91.875
+New Zealand,High income: OECD,2014,38000.0,7.305892467498779,91.875
+New Zealand,High income: OECD,2015,38600.0,7.418120861053467,91.875
+New Zealand,High income: OECD,2016,39200.0,7.2256879806518555,91.875
+New Zealand,High income: OECD,2017,39800.0,7.327182769775391,94.375
+New Zealand,High income: OECD,2018,40300.0,7.370285987854004,94.375
+New Zealand,High income: OECD,2019,40300.0,7.205174446105957,94.375
+New Zealand,High income: OECD,2020,39900.0,7.257381916046143,94.375
+Nicaragua,Latin America & Caribbean,2006,1620.0,4.460158348083496,63.75
+Nicaragua,Latin America & Caribbean,2007,1670.0,4.944090843200684,63.75
+Nicaragua,Latin America & Caribbean,2008,1710.0,5.103827476501465,63.75
+Nicaragua,Latin America & Caribbean,2009,1630.0,5.352804660797119,72.5
+Nicaragua,Latin America & Caribbean,2010,1680.0,5.686699390411377,72.5
+Nicaragua,Latin America & Caribbean,2011,1760.0,5.385705471038818,72.5
+Nicaragua,Latin America & Caribbean,2012,1850.0,5.4480061531066895,72.5
+Nicaragua,Latin America & Caribbean,2013,1920.0,5.772274971008301,72.5
+Nicaragua,Latin America & Caribbean,2014,1980.0,6.275266647338867,72.5
+Nicaragua,Latin America & Caribbean,2015,2050.0,5.924112796783447,75.625
+Nicaragua,Latin America & Caribbean,2016,2120.0,6.012739658355713,83.75
+Nicaragua,Latin America & Caribbean,2017,2190.0,6.476356506347656,86.25
+Nicaragua,Latin America & Caribbean,2018,2090.0,5.818952560424805,86.25
+Nicaragua,Latin America & Caribbean,2019,1980.0,6.112545013427734,86.25
+Niger,Sub-Saharan Africa,2006,420.0,3.7369518280029297,56.25
+Niger,Sub-Saharan Africa,2007,417.0,4.277402400970459,56.25
+Niger,Sub-Saharan Africa,2008,432.0,4.235657215118408,56.25
+Niger,Sub-Saharan Africa,2009,424.0,4.267169952392578,56.25
+Niger,Sub-Saharan Africa,2010,443.0,4.101016044616699,56.25
+Niger,Sub-Saharan Africa,2011,437.0,4.5558295249938965,56.25
+Niger,Sub-Saharan Africa,2012,464.0,3.798088312149048,56.25
+Niger,Sub-Saharan Africa,2013,470.0,3.71632981300354,56.25
+Niger,Sub-Saharan Africa,2014,482.0,4.180943489074707,56.25
+Niger,Sub-Saharan Africa,2015,484.0,3.6714537143707275,56.25
+Niger,Sub-Saharan Africa,2016,493.0,4.234645843505859,56.25
+Niger,Sub-Saharan Africa,2017,498.0,4.615673542022705,56.25
+Niger,Sub-Saharan Africa,2018,514.0,5.164007186889648,56.25
+Niger,Sub-Saharan Africa,2019,524.0,5.003544330596924,59.375
+Nigeria,Sub-Saharan Africa,2006,2010.0,4.70974588394165,54.375
+Nigeria,Sub-Saharan Africa,2007,2090.0,4.8904194831848145,54.375
+Nigeria,Sub-Saharan Africa,2008,2170.0,4.938560485839844,56.875
+Nigeria,Sub-Saharan Africa,2009,2290.0,4.980220317840576,56.875
+Nigeria,Sub-Saharan Africa,2010,2400.0,4.760275840759277,56.875
+Nigeria,Sub-Saharan Africa,2012,2500.0,5.492954254150391,56.875
+Nigeria,Sub-Saharan Africa,2013,2600.0,4.817868709564209,63.125
+Nigeria,Sub-Saharan Africa,2015,2690.0,4.932914733886719,63.125
+Nigeria,Sub-Saharan Africa,2016,2580.0,5.219567775726318,63.125
+Nigeria,Sub-Saharan Africa,2017,2530.0,5.321928024291992,63.125
+Nigeria,Sub-Saharan Africa,2018,2510.0,5.252288341522217,63.125
+Nigeria,Sub-Saharan Africa,2019,2500.0,4.356419086456299,63.125
+Nigeria,Sub-Saharan Africa,2020,2400.0,5.50294828414917,63.125
+North Macedonia,Europe & Central Asia,2007,3980.0,4.493598461151123,76.875
+North Macedonia,Europe & Central Asia,2009,4170.0,4.4280219078063965,76.875
+North Macedonia,Europe & Central Asia,2010,4310.0,4.180202007293701,79.375
+North Macedonia,Europe & Central Asia,2011,4410.0,4.89818000793457,82.5
+North Macedonia,Europe & Central Asia,2012,4380.0,4.639647483825684,82.5
+North Macedonia,Europe & Central Asia,2013,4510.0,5.186190605163574,82.5
+North Macedonia,Europe & Central Asia,2014,4670.0,5.203825950622559,82.5
+North Macedonia,Europe & Central Asia,2015,4840.0,4.975589752197266,82.5
+North Macedonia,Europe & Central Asia,2016,4980.0,5.345746040344238,85.0
+North Macedonia,Europe & Central Asia,2017,5030.0,5.2338666915893555,85.0
+North Macedonia,Europe & Central Asia,2018,5170.0,5.239834785461426,85.0
+North Macedonia,Europe & Central Asia,2019,5330.0,5.0154852867126465,85.0
+North Macedonia,Europe & Central Asia,2020,5090.0,5.053664207458496,85.0
+Norway,High income: OECD,2006,74200.0,7.415682315826416,94.375
+Norway,High income: OECD,2008,75000.0,7.632287502288818,94.375
+Norway,High income: OECD,2012,73200.0,7.678277015686035,96.875
+Norway,High income: OECD,2014,73700.0,7.4444708824157715,96.875
+Norway,High income: OECD,2015,74400.0,7.603433609008789,96.875
+Norway,High income: OECD,2016,74500.0,7.596331596374512,96.875
+Norway,High income: OECD,2017,75600.0,7.578744888305664,96.875
+Norway,High income: OECD,2018,76000.0,7.4442620277404785,96.875
+Norway,High income: OECD,2019,76100.0,7.442139625549316,96.875
+Norway,High income: OECD,2020,75100.0,7.290032386779785,96.875
+Oman,Middle East & North Africa,2011,17300.0,6.852982044219971,35.625
+Pakistan,South Asia,2005,1180.0,5.2246575355529785,38.125
+Pakistan,South Asia,2007,1250.0,5.6714606285095215,38.125
+Pakistan,South Asia,2008,1240.0,4.413918972015381,38.125
+Pakistan,South Asia,2009,1250.0,5.208146572113037,38.125
+Pakistan,South Asia,2010,1240.0,5.7861328125,38.125
+Pakistan,South Asia,2011,1250.0,5.267186164855957,44.375
+Pakistan,South Asia,2012,1260.0,5.131565093994141,44.375
+Pakistan,South Asia,2013,1290.0,5.138082504272461,44.375
+Pakistan,South Asia,2014,1320.0,5.435657978057861,46.875
+Pakistan,South Asia,2015,1360.0,4.823194980621338,46.875
+Pakistan,South Asia,2016,1400.0,5.548508167266846,46.875
+Pakistan,South Asia,2017,1450.0,5.830870628356934,46.875
+Pakistan,South Asia,2018,1500.0,5.471553802490234,50.0
+Pakistan,South Asia,2019,1490.0,4.442717552185059,52.5
+Panama,Latin America & Caribbean,2006,8340.0,6.127988338470459,73.75
+Panama,Latin America & Caribbean,2007,9170.0,6.894139766693115,73.75
+Panama,Latin America & Caribbean,2008,9890.0,6.930903434753418,73.75
+Panama,Latin America & Caribbean,2009,9840.0,7.033740043640137,73.75
+Panama,Latin America & Caribbean,2010,10200.0,7.321467399597168,73.75
+Panama,Latin America & Caribbean,2011,11200.0,7.248080730438232,73.75
+Panama,Latin America & Caribbean,2012,12100.0,6.859835624694824,73.75
+Panama,Latin America & Caribbean,2013,12700.0,6.866480350494385,73.75
+Panama,Latin America & Caribbean,2014,13100.0,6.631171226501465,73.75
+Panama,Latin America & Caribbean,2015,13600.0,6.605550289154053,76.875
+Panama,Latin America & Caribbean,2016,14100.0,6.117638111114502,76.875
+Panama,Latin America & Caribbean,2017,14600.0,6.5676589012146,76.875
+Panama,Latin America & Caribbean,2018,14900.0,6.281434059143066,79.375
+Panama,Latin America & Caribbean,2019,15100.0,6.0859551429748535,79.375
+Paraguay,Latin America & Caribbean,2006,4050.0,4.730082035064697,91.875
+Paraguay,Latin America & Caribbean,2007,4210.0,5.272461414337158,91.875
+Paraguay,Latin America & Caribbean,2008,4420.0,5.570061683654785,91.875
+Paraguay,Latin America & Caribbean,2009,4350.0,5.576147079467773,91.875
+Paraguay,Latin America & Caribbean,2010,4770.0,5.841174125671387,91.875
+Paraguay,Latin America & Caribbean,2011,4900.0,5.6770806312561035,91.875
+Paraguay,Latin America & Caribbean,2012,4800.0,5.820058345794678,91.875
+Paraguay,Latin America & Caribbean,2013,5130.0,5.9362406730651855,91.875
+Paraguay,Latin America & Caribbean,2014,5330.0,5.1186418533325195,91.875
+Paraguay,Latin America & Caribbean,2015,5410.0,5.5597243309021,91.875
+Paraguay,Latin America & Caribbean,2016,5570.0,5.801380157470703,91.875
+Paraguay,Latin America & Caribbean,2017,5760.0,5.7132954597473145,94.375
+Paraguay,Latin America & Caribbean,2019,5770.0,5.652625560760498,94.375
+Peru,Latin America & Caribbean,2006,4120.0,4.810845375061035,86.875
+Peru,Latin America & Caribbean,2007,4440.0,5.213962078094482,86.875
+Peru,Latin America & Caribbean,2008,4800.0,5.129230976104736,90.0
+Peru,Latin America & Caribbean,2009,4820.0,5.5188469886779785,90.0
+Peru,Latin America & Caribbean,2010,5180.0,5.612785339355469,90.0
+Peru,Latin America & Caribbean,2011,5460.0,5.892457485198975,92.5
+Peru,Latin America & Caribbean,2012,5750.0,5.824557304382324,92.5
+Peru,Latin America & Caribbean,2013,6030.0,5.782557487487793,92.5
+Peru,Latin America & Caribbean,2014,6110.0,5.86581563949585,92.5
+Peru,Latin America & Caribbean,2015,6230.0,5.577263355255127,92.5
+Peru,Latin America & Caribbean,2016,6380.0,5.700628757476807,92.5
+Peru,Latin America & Caribbean,2017,6430.0,5.710936546325684,95.0
+Peru,Latin America & Caribbean,2018,6570.0,5.679661273956299,95.0
+Peru,Latin America & Caribbean,2019,6610.0,5.9993815422058105,95.0
+Philippines,East Asia & Pacific,2006,2150.0,4.66994571685791,72.5
+Philippines,East Asia & Pacific,2007,2250.0,5.073562145233154,72.5
+Philippines,East Asia & Pacific,2008,2310.0,4.589065074920654,72.5
+Philippines,East Asia & Pacific,2009,2300.0,4.879910945892334,72.5
+Philippines,East Asia & Pacific,2010,2430.0,4.941514015197754,72.5
+Philippines,East Asia & Pacific,2011,2480.0,4.993956565856934,72.5
+Philippines,East Asia & Pacific,2012,2610.0,5.001965045928955,72.5
+Philippines,East Asia & Pacific,2013,2740.0,4.976925373077393,78.75
+Philippines,East Asia & Pacific,2014,2870.0,5.312550067901611,78.75
+Philippines,East Asia & Pacific,2015,3000.0,5.547489166259766,78.75
+Philippines,East Asia & Pacific,2016,3170.0,5.430832862854004,78.75
+Philippines,East Asia & Pacific,2017,3340.0,5.5942702293396,78.75
+Philippines,East Asia & Pacific,2018,3500.0,5.8691725730896,78.75
+Philippines,East Asia & Pacific,2019,3660.0,6.267745018005371,78.75
+Philippines,East Asia & Pacific,2020,3270.0,5.079585075378418,78.75
+Poland,High income: OECD,2005,8570.0,5.587209224700928,66.875
+Poland,High income: OECD,2007,9750.0,5.88613748550415,66.875
+Poland,High income: OECD,2009,10400.0,5.772027492523193,70.0
+Poland,High income: OECD,2010,10900.0,5.887029647827148,76.25
+Poland,High income: OECD,2011,11400.0,5.646204948425293,78.75
+Poland,High income: OECD,2012,11500.0,5.875931739807129,85.0
+Poland,High income: OECD,2013,11700.0,5.746131896972656,85.0
+Poland,High income: OECD,2014,12100.0,5.750282287597656,84.375
+Poland,High income: OECD,2015,12600.0,6.007021903991699,84.375
+Poland,High income: OECD,2016,13000.0,6.162076473236084,84.375
+Poland,High income: OECD,2017,13600.0,6.201268196105957,84.375
+Poland,High income: OECD,2018,14300.0,6.111485004425049,93.75
+Poland,High income: OECD,2019,15000.0,6.242094039916992,93.75
+Poland,High income: OECD,2020,14600.0,6.139455318450928,93.75
+Portugal,High income: OECD,2006,19500.0,5.405246257781982,91.875
+Portugal,High income: OECD,2008,20000.0,5.71696662902832,91.875
+Portugal,High income: OECD,2010,19700.0,5.0945258140563965,97.5
+Portugal,High income: OECD,2011,19400.0,5.219997882843018,97.5
+Portugal,High income: OECD,2012,18600.0,4.993962287902832,97.5
+Portugal,High income: OECD,2013,18600.0,5.157688140869141,97.5
+Portugal,High income: OECD,2014,18800.0,5.126911640167236,97.5
+Portugal,High income: OECD,2015,19200.0,5.08086633682251,97.5
+Portugal,High income: OECD,2016,19700.0,5.446637153625488,97.5
+Portugal,High income: OECD,2017,20400.0,5.711499214172363,97.5
+Portugal,High income: OECD,2018,21000.0,5.919822692871094,97.5
+Portugal,High income: OECD,2019,21600.0,6.095473289489746,97.5
+Portugal,High income: OECD,2020,19900.0,5.767792224884033,97.5
+Qatar,Middle East & North Africa,2009,59100.0,6.4178242683410645,29.375
+Qatar,Middle East & North Africa,2010,63000.0,6.8496527671813965,29.375
+Qatar,Middle East & North Africa,2011,65099.99999999999,6.591604232788086,29.375
+Qatar,Middle East & North Africa,2012,63200.0,6.611298561096191,29.375
+Qatar,Middle East & North Africa,2015,63000.0,6.3745293617248535,29.375
+Russia,Europe & Central Asia,2006,9690.0,4.963742733001709,73.125
+Russia,Europe & Central Asia,2007,10500.0,5.222867488861084,73.125
+Russia,Europe & Central Asia,2008,11100.0,5.618753910064697,73.125
+Russia,Europe & Central Asia,2009,10200.0,5.158227920532227,73.125
+Russia,Europe & Central Asia,2010,10700.0,5.384773254394531,73.125
+Russia,Europe & Central Asia,2011,11100.0,5.388766288757324,73.125
+Russia,Europe & Central Asia,2012,11600.0,5.6207356452941895,73.125
+Russia,Europe & Central Asia,2013,11700.0,5.537177562713623,73.125
+Russia,Europe & Central Asia,2014,11600.0,6.0369768142700195,73.125
+Russia,Europe & Central Asia,2015,11400.0,5.995538711547852,73.125
+Russia,Europe & Central Asia,2016,11400.0,5.854945659637451,73.125
+Russia,Europe & Central Asia,2017,11600.0,5.578742980957031,73.125
+Russia,Europe & Central Asia,2018,11900.0,5.513500213623047,73.125
+Russia,Europe & Central Asia,2019,12100.0,5.440523624420166,73.125
+Russia,Europe & Central Asia,2020,11800.0,5.495288848876953,73.125
+Rwanda,Sub-Saharan Africa,2006,488.0,4.214703559875488,63.75
+Rwanda,Sub-Saharan Africa,2008,554.0,4.3629889488220215,63.75
+Rwanda,Sub-Saharan Africa,2009,573.0,4.029761791229248,63.75
+Rwanda,Sub-Saharan Africa,2011,631.0,4.09743595123291,72.5
+Rwanda,Sub-Saharan Africa,2012,669.0,3.333047866821289,72.5
+Rwanda,Sub-Saharan Africa,2013,683.0,3.4663877487182617,72.5
+Rwanda,Sub-Saharan Africa,2014,708.0,3.5956783294677734,72.5
+Rwanda,Sub-Saharan Africa,2015,751.0,3.4831089973449707,72.5
+Rwanda,Sub-Saharan Africa,2016,775.0,3.3329899311065674,72.5
+Rwanda,Sub-Saharan Africa,2017,785.0,3.1083738803863525,72.5
+Rwanda,Sub-Saharan Africa,2018,830.0,3.561046600341797,78.125
+Rwanda,Sub-Saharan Africa,2019,886.0,3.2681522369384766,78.125
+Saudi Arabia,Middle East & North Africa,2005,18700.0,7.079644203186035,23.75
+Saudi Arabia,Middle East & North Africa,2007,18500.0,7.266694068908691,26.25
+Saudi Arabia,Middle East & North Africa,2008,19100.0,6.811370372772217,26.25
+Saudi Arabia,Middle East & North Africa,2009,18200.0,6.147590160369873,26.25
+Saudi Arabia,Middle East & North Africa,2010,18600.0,6.307098388671875,26.25
+Saudi Arabia,Middle East & North Africa,2011,19800.0,6.699789524078369,26.25
+Saudi Arabia,Middle East & North Africa,2012,20200.0,6.396359443664551,29.375
+Saudi Arabia,Middle East & North Africa,2013,20200.0,6.495132923126221,29.375
+Saudi Arabia,Middle East & North Africa,2014,20300.0,6.278378009796143,29.375
+Saudi Arabia,Middle East & North Africa,2015,20600.0,6.345491886138916,31.875
+Saudi Arabia,Middle East & North Africa,2016,20500.0,6.473921298980713,31.875
+Saudi Arabia,Middle East & North Africa,2017,19900.0,6.29428243637085,31.875
+Saudi Arabia,Middle East & North Africa,2018,20100.0,6.356393337249756,31.875
+Saudi Arabia,Middle East & North Africa,2019,19800.0,6.5612473487854,38.125
+Saudi Arabia,Middle East & North Africa,2020,18700.0,6.559588432312012,70.625
+Senegal,Sub-Saharan Africa,2006,1130.0,4.417352676391602,63.75
+Senegal,Sub-Saharan Africa,2007,1130.0,4.679986953735352,63.75
+Senegal,Sub-Saharan Africa,2008,1140.0,4.683499813079834,63.75
+Senegal,Sub-Saharan Africa,2009,1140.0,4.335114002227783,63.75
+Senegal,Sub-Saharan Africa,2010,1150.0,4.372156143188477,63.75
+Senegal,Sub-Saharan Africa,2011,1130.0,3.8342015743255615,63.75
+Senegal,Sub-Saharan Africa,2012,1150.0,3.6687369346618652,63.75
+Senegal,Sub-Saharan Africa,2013,1140.0,3.647367000579834,63.75
+Senegal,Sub-Saharan Africa,2014,1180.0,4.394777297973633,63.75
+Senegal,Sub-Saharan Africa,2015,1220.0,4.617000579833984,63.75
+Senegal,Sub-Saharan Africa,2016,1260.0,4.594533920288086,63.75
+Senegal,Sub-Saharan Africa,2017,1320.0,4.683024883270264,63.75
+Senegal,Sub-Saharan Africa,2018,1360.0,4.7693772315979,63.75
+Senegal,Sub-Saharan Africa,2019,1380.0,5.488736629486084,63.75
+Serbia,Europe & Central Asia,2007,4970.0,4.7503838539123535,90.625
+Serbia,Europe & Central Asia,2009,5150.0,4.380311965942383,90.625
+Serbia,Europe & Central Asia,2010,5210.0,4.461304187774658,93.75
+Serbia,Europe & Central Asia,2011,5350.0,4.815186500549316,96.875
+Serbia,Europe & Central Asia,2012,5340.0,5.154521942138672,96.875
+Serbia,Europe & Central Asia,2013,5520.0,5.101840496063232,96.875
+Serbia,Europe & Central Asia,2014,5460.0,5.112728595733643,96.875
+Serbia,Europe & Central Asia,2015,5590.0,5.317685127258301,96.875
+Serbia,Europe & Central Asia,2016,5810.0,5.7527546882629395,93.75
+Serbia,Europe & Central Asia,2017,5960.0,5.122031211853027,93.75
+Serbia,Europe & Central Asia,2018,6260.0,5.936493396759033,93.75
+Serbia,Europe & Central Asia,2019,6560.0,6.24140739440918,93.75
+Serbia,Europe & Central Asia,2020,6530.0,6.04154634475708,93.75
+Sierra Leone,Sub-Saharan Africa,2006,476.0,3.6281850337982178,38.125
+Sierra Leone,Sub-Saharan Africa,2007,501.0,3.585127353668213,38.125
+Sierra Leone,Sub-Saharan Africa,2008,516.0,2.997251033782959,38.125
+Sierra Leone,Sub-Saharan Africa,2010,536.0,4.133955955505371,63.125
+Sierra Leone,Sub-Saharan Africa,2011,557.0,4.501643657684326,63.125
+Sierra Leone,Sub-Saharan Africa,2013,740.0,4.514291286468506,63.125
+Sierra Leone,Sub-Saharan Africa,2014,757.0,4.499970436096191,63.125
+Sierra Leone,Sub-Saharan Africa,2015,588.0,4.908617973327637,63.125
+Sierra Leone,Sub-Saharan Africa,2016,610.0,4.732953071594238,63.125
+Sierra Leone,Sub-Saharan Africa,2017,623.0,4.08956241607666,63.125
+Sierra Leone,Sub-Saharan Africa,2018,630.0,4.305683135986328,63.125
+Sierra Leone,Sub-Saharan Africa,2019,652.0,3.4473814964294434,63.125
+Singapore,East Asia & Pacific,2006,44100.0,6.462702751159668,68.75
+Singapore,East Asia & Pacific,2007,46100.0,6.833754539489746,68.75
+Singapore,East Asia & Pacific,2008,44500.0,6.641956806182861,68.75
+Singapore,East Asia & Pacific,2009,43300.0,6.144676685333252,68.75
+Singapore,East Asia & Pacific,2010,48700.0,6.531401634216309,71.25
+Singapore,East Asia & Pacific,2011,50700.0,6.561041831970215,71.25
+Singapore,East Asia & Pacific,2013,53300.0,6.533206939697266,71.25
+Singapore,East Asia & Pacific,2014,54700.0,7.06236457824707,71.25
+Singapore,East Asia & Pacific,2015,55600.0,6.619524955749512,76.25
+Singapore,East Asia & Pacific,2016,56800.0,6.033480644226074,82.5
+Singapore,East Asia & Pacific,2017,59300.0,6.3784379959106445,82.5
+Singapore,East Asia & Pacific,2018,61100.0,6.374564170837402,82.5
+Singapore,East Asia & Pacific,2019,61200.0,6.378359794616699,82.5
+Slovakia,High income: OECD,2006,12400.0,5.264676570892334,76.25
+Slovakia,High income: OECD,2010,14500.0,6.052223205566406,81.875
+Slovakia,High income: OECD,2011,14900.0,5.9450483322143555,91.25
+Slovakia,High income: OECD,2012,15100.0,5.911059379577637,94.375
+Slovakia,High income: OECD,2013,15200.0,5.936527252197266,94.375
+Slovakia,High income: OECD,2014,15600.0,6.138873100280762,94.375
+Slovakia,High income: OECD,2015,16300.0,6.162004470825195,94.375
+Slovakia,High income: OECD,2016,16600.0,5.993163108825684,94.375
+Slovakia,High income: OECD,2017,17100.0,6.365509033203125,94.375
+Slovakia,High income: OECD,2018,17700.0,6.235110759735107,94.375
+Slovakia,High income: OECD,2019,18100.0,6.243428707122803,94.375
+Slovakia,High income: OECD,2020,17300.0,6.519098281860352,94.375
+Slovenia,High income: OECD,2006,20300.0,5.811264514923096,88.125
+Slovenia,High income: OECD,2009,20400.0,5.830160617828369,90.625
+Slovenia,High income: OECD,2010,20600.0,6.082555294036865,90.625
+Slovenia,High income: OECD,2011,20700.0,6.035964012145996,90.625
+Slovenia,High income: OECD,2012,20100.0,6.062891006469727,90.625
+Slovenia,High income: OECD,2013,19900.0,5.974888801574707,90.625
+Slovenia,High income: OECD,2014,20400.0,5.6783952713012695,90.625
+Slovenia,High income: OECD,2015,20900.0,5.740642070770264,90.625
+Slovenia,High income: OECD,2016,21500.0,5.936821460723877,90.625
+Slovenia,High income: OECD,2017,22600.0,6.166837692260742,90.625
+Slovenia,High income: OECD,2018,23500.0,6.249419212341309,90.625
+Slovenia,High income: OECD,2019,24100.0,6.665273666381836,93.75
+Slovenia,High income: OECD,2020,22900.0,6.462076187133789,93.75
+Somalia,Sub-Saharan Africa,2014,292.0,5.52827262878418,46.875
+Somalia,Sub-Saharan Africa,2015,293.0,5.353644847869873,46.875
+Somalia,Sub-Saharan Africa,2016,294.0,4.667941093444824,46.875
+South Africa,Sub-Saharan Africa,2006,5330.0,5.083986759185791,78.75
+South Africa,Sub-Saharan Africa,2007,5540.0,5.20445442199707,78.75
+South Africa,Sub-Saharan Africa,2008,5640.0,5.346306800842285,78.75
+South Africa,Sub-Saharan Africa,2009,5480.0,5.218430995941162,78.75
+South Africa,Sub-Saharan Africa,2010,5560.0,4.65242862701416,78.75
+South Africa,Sub-Saharan Africa,2011,5660.0,4.930511474609375,78.75
+South Africa,Sub-Saharan Africa,2012,5690.0,5.133887767791748,78.75
+South Africa,Sub-Saharan Africa,2013,5740.0,3.6607272624969482,81.875
+South Africa,Sub-Saharan Africa,2014,5750.0,4.828456401824951,81.875
+South Africa,Sub-Saharan Africa,2015,5730.0,4.887325763702393,88.125
+South Africa,Sub-Saharan Africa,2016,5670.0,4.769739627838135,88.125
+South Africa,Sub-Saharan Africa,2017,5670.0,4.513655185699463,88.125
+South Africa,Sub-Saharan Africa,2018,5640.0,4.883922100067139,88.125
+South Africa,Sub-Saharan Africa,2019,5570.0,5.034863471984863,88.125
+South Africa,Sub-Saharan Africa,2020,5120.0,4.946800708770752,88.125
+South Korea,High income: OECD,2006,22200.0,5.332177639007568,76.25
+South Korea,High income: OECD,2007,23400.0,5.767275810241699,79.375
+South Korea,High income: OECD,2008,23900.0,5.38962459564209,79.375
+South Korea,High income: OECD,2009,23900.0,5.6476898193359375,85.0
+South Korea,High income: OECD,2010,25500.0,6.116024494171143,85.0
+South Korea,High income: OECD,2011,26200.0,6.946599006652832,85.0
+South Korea,High income: OECD,2012,26700.0,6.003286838531494,85.0
+South Korea,High income: OECD,2013,27400.0,5.958809852600098,85.0
+South Korea,High income: OECD,2014,28100.0,5.80132532119751,85.0
+South Korea,High income: OECD,2015,28700.0,5.780211448669434,85.0
+South Korea,High income: OECD,2016,29500.0,5.970564365386963,85.0
+South Korea,High income: OECD,2017,30300.0,5.873887062072754,85.0
+South Korea,High income: OECD,2018,31000.0,5.840231418609619,85.0
+South Korea,High income: OECD,2019,31600.0,5.9028167724609375,85.0
+South Korea,High income: OECD,2020,31300.0,5.79269552230835,85.0
+South Sudan,Sub-Saharan Africa,2014,1270.0,3.8319923877716064,51.875
+South Sudan,Sub-Saharan Africa,2015,1120.0,4.070771217346191,51.875
+Spain,High income: OECD,2005,26100.0,7.152785778045654,94.375
+Spain,High income: OECD,2007,27200.0,6.994614601135254,94.375
+Spain,High income: OECD,2008,27000.0,7.294472694396973,97.5
+Spain,High income: OECD,2009,25800.0,6.198601245880127,97.5
+Spain,High income: OECD,2010,25700.0,6.188262462615967,97.5
+Spain,High income: OECD,2011,25400.0,6.518249034881592,97.5
+Spain,High income: OECD,2012,24600.0,6.2906904220581055,97.5
+Spain,High income: OECD,2013,24400.0,6.150027275085449,97.5
+Spain,High income: OECD,2014,24800.0,6.456477642059326,97.5
+Spain,High income: OECD,2015,25700.0,6.3806633949279785,97.5
+Spain,High income: OECD,2016,26500.0,6.318612098693848,97.5
+Spain,High income: OECD,2017,27200.0,6.230173110961914,97.5
+Spain,High income: OECD,2018,27700.0,6.513370990753174,97.5
+Spain,High income: OECD,2019,28100.0,6.457449436187744,97.5
+Spain,High income: OECD,2020,24900.0,6.502175331115723,97.5
+Sri Lanka,South Asia,2006,2400.0,4.344610691070557,63.125
+Sri Lanka,South Asia,2007,2540.0,4.4148054122924805,65.625
+Sri Lanka,South Asia,2008,2670.0,4.430846214294434,65.625
+Sri Lanka,South Asia,2009,2750.0,4.212026596069336,65.625
+Sri Lanka,South Asia,2010,2950.0,3.976905107498169,65.625
+Sri Lanka,South Asia,2011,3180.0,4.180569171905518,65.625
+Sri Lanka,South Asia,2012,3460.0,4.224593162536621,65.625
+Sri Lanka,South Asia,2013,3550.0,4.364694118499756,65.625
+Sri Lanka,South Asia,2014,3690.0,4.267932891845703,65.625
+Sri Lanka,South Asia,2015,3840.0,4.611606597900391,65.625
+Sri Lanka,South Asia,2017,4070.0,4.3309454917907715,65.625
+Sri Lanka,South Asia,2018,4160.0,4.435023784637451,65.625
+Sri Lanka,South Asia,2019,4230.0,4.21329927444458,65.625
+Sudan,Sub-Saharan Africa,2009,1480.0,4.4549174308776855,29.375
+Sudan,Sub-Saharan Africa,2010,1490.0,4.435159683227539,29.375
+Sudan,Sub-Saharan Africa,2011,1630.0,4.314456462860107,29.375
+Sudan,Sub-Saharan Africa,2012,1830.0,4.550499439239502,29.375
+Sudan,Sub-Saharan Africa,2014,1990.0,4.138672828674316,29.375
+Suriname,Latin America & Caribbean,2012,9500.0,6.269286632537842,66.25
+Swaziland,Sub-Saharan Africa,2011,3360.0,4.867091178894043,38.75
+Swaziland,Sub-Saharan Africa,2018,3780.0,4.211565017700195,43.75
+Swaziland,Sub-Saharan Africa,2019,3820.0,4.396114826202393,43.75
+Sweden,High income: OECD,2005,46000.0,7.376315593719482,90.625
+Sweden,High income: OECD,2007,49100.0,7.241362571716309,96.875
+Sweden,High income: OECD,2008,48500.0,7.515997409820557,96.875
+Sweden,High income: OECD,2009,46000.0,7.265977382659912,96.875
+Sweden,High income: OECD,2010,48400.0,7.496018886566162,96.875
+Sweden,High income: OECD,2011,49500.0,7.382232189178467,96.875
+Sweden,High income: OECD,2012,48900.0,7.560147762298584,96.875
+Sweden,High income: OECD,2013,49000.0,7.4340105056762695,96.875
+Sweden,High income: OECD,2014,49900.0,7.239147663116455,100.0
+Sweden,High income: OECD,2015,51500.0,7.288922309875488,100.0
+Sweden,High income: OECD,2016,52000.0,7.368744373321533,100.0
+Sweden,High income: OECD,2017,52600.0,7.286804676055908,100.0
+Sweden,High income: OECD,2018,53000.0,7.374792098999023,100.0
+Sweden,High income: OECD,2019,53500.0,7.398092746734619,100.0
+Sweden,High income: OECD,2020,51600.0,7.314341068267822,100.0
+Switzerland,High income: OECD,2006,79400.0,7.473252773284912,83.125
+Switzerland,High income: OECD,2009,80300.0,7.5245208740234375,85.625
+Switzerland,High income: OECD,2012,82800.0,7.776208877563477,85.625
+Switzerland,High income: OECD,2014,84300.0,7.492803573608398,85.625
+Switzerland,High income: OECD,2015,84800.0,7.572136878967285,85.625
+Switzerland,High income: OECD,2016,85600.0,7.45851993560791,85.625
+Switzerland,High income: OECD,2017,86100.0,7.473593235015869,85.625
+Switzerland,High income: OECD,2018,88000.0,7.508586883544922,85.625
+Switzerland,High income: OECD,2019,88400.0,7.694221019744873,85.625
+Switzerland,High income: OECD,2020,85700.0,7.508435249328613,85.625
+Tajikistan,Europe & Central Asia,2006,662.0,4.613099098205566,73.125
+Tajikistan,Europe & Central Asia,2007,699.0,4.4316086769104,73.125
+Tajikistan,Europe & Central Asia,2008,739.0,5.063986778259277,73.125
+Tajikistan,Europe & Central Asia,2009,752.0,4.575174808502197,73.125
+Tajikistan,Europe & Central Asia,2010,784.0,4.380636215209961,73.125
+Tajikistan,Europe & Central Asia,2011,823.0,4.26267147064209,73.125
+Tajikistan,Europe & Central Asia,2012,865.0,4.4965715408325195,73.125
+Tajikistan,Europe & Central Asia,2013,907.0,4.966521263122559,73.125
+Tajikistan,Europe & Central Asia,2014,946.0,4.896157741546631,75.625
+Tajikistan,Europe & Central Asia,2015,978.0,5.124210834503174,75.625
+Tajikistan,Europe & Central Asia,2016,1020.0,5.1037211418151855,75.625
+Tajikistan,Europe & Central Asia,2017,1070.0,5.8292341232299805,75.625
+Tajikistan,Europe & Central Asia,2018,1120.0,5.497468948364258,78.75
+Tajikistan,Europe & Central Asia,2019,1170.0,5.464015483856201,78.75
+Tajikistan,Europe & Central Asia,2020,1200.0,5.373398780822754,78.75
+Tanzania,Sub-Saharan Africa,2006,660.0,3.9224841594696045,81.25
+Tanzania,Sub-Saharan Africa,2007,685.0,4.3179497718811035,81.25
+Tanzania,Sub-Saharan Africa,2008,704.0,4.38474178314209,81.25
+Tanzania,Sub-Saharan Africa,2009,720.0,3.40750789642334,81.25
+Tanzania,Sub-Saharan Africa,2010,743.0,3.2291290760040283,81.25
+Tanzania,Sub-Saharan Africa,2011,777.0,4.073562145233154,81.25
+Tanzania,Sub-Saharan Africa,2012,788.0,4.006897449493408,81.25
+Tanzania,Sub-Saharan Africa,2013,817.0,3.8523948192596436,81.25
+Tanzania,Sub-Saharan Africa,2014,846.0,3.483278512954712,81.25
+Tanzania,Sub-Saharan Africa,2015,872.0,3.660597324371338,81.25
+Tanzania,Sub-Saharan Africa,2016,904.0,2.9027342796325684,81.25
+Tanzania,Sub-Saharan Africa,2017,937.0,3.347121238708496,81.25
+Tanzania,Sub-Saharan Africa,2018,959.0,3.44502329826355,81.25
+Tanzania,Sub-Saharan Africa,2019,985.0,3.6401548385620117,81.25
+Tanzania,Sub-Saharan Africa,2020,976.0,3.785684108734131,81.25
+Thailand,East Asia & Pacific,2006,4600.0,5.885432720184326,63.75
+Thailand,East Asia & Pacific,2007,4830.0,5.783891201019287,63.75
+Thailand,East Asia & Pacific,2008,4880.0,5.636471271514893,63.75
+Thailand,East Asia & Pacific,2009,4830.0,5.475645065307617,75.0
+Thailand,East Asia & Pacific,2010,5160.0,6.216702938079834,75.0
+Thailand,East Asia & Pacific,2011,5180.0,6.663609027862549,75.0
+Thailand,East Asia & Pacific,2012,5530.0,6.300235271453857,75.0
+Thailand,East Asia & Pacific,2013,5650.0,6.231024742126465,75.0
+Thailand,East Asia & Pacific,2014,5690.0,6.985463619232178,75.0
+Thailand,East Asia & Pacific,2015,5840.0,6.201762676239014,75.0
+Thailand,East Asia & Pacific,2016,6020.0,6.073639869689941,75.0
+Thailand,East Asia & Pacific,2017,6250.0,5.938895225524902,75.0
+Thailand,East Asia & Pacific,2018,6490.0,6.011561870574951,75.0
+Thailand,East Asia & Pacific,2019,6620.0,6.022151470184326,75.0
+Thailand,East Asia & Pacific,2020,6200.0,5.884544372558594,78.125
+Togo,Sub-Saharan Africa,2006,468.0,3.2024292945861816,51.25
+Togo,Sub-Saharan Africa,2008,456.0,2.8078551292419434,69.375
+Togo,Sub-Saharan Africa,2011,501.0,2.93622088432312,69.375
+Togo,Sub-Saharan Africa,2014,554.0,2.838958740234375,81.875
+Togo,Sub-Saharan Africa,2015,571.0,3.7683019638061523,81.875
+Togo,Sub-Saharan Africa,2016,588.0,3.8785784244537354,84.375
+Togo,Sub-Saharan Africa,2017,598.0,4.360805034637451,84.375
+Togo,Sub-Saharan Africa,2018,613.0,4.022894859313965,84.375
+Togo,Sub-Saharan Africa,2019,631.0,4.1794939041137695,84.375
+Trinidad and Tobago,Latin America & Caribbean,2006,17300.0,5.832188606262207,72.5
+Trinidad and Tobago,Latin America & Caribbean,2008,18500.0,6.696444034576416,72.5
+Trinidad and Tobago,Latin America & Caribbean,2011,17900.0,6.5187458992004395,72.5
+Trinidad and Tobago,Latin America & Caribbean,2013,18300.0,6.1677069664001465,72.5
+Trinidad and Tobago,Latin America & Caribbean,2017,16500.0,6.191859722137451,75.0
+Tunisia,Middle East & North Africa,2009,3630.0,5.02547025680542,58.75
+Tunisia,Middle East & North Africa,2010,3720.0,5.130520820617676,58.75
+Tunisia,Middle East & North Africa,2011,3610.0,4.876482009887695,58.75
+Tunisia,Middle East & North Africa,2012,3720.0,4.463531017303467,58.75
+Tunisia,Middle East & North Africa,2013,3790.0,5.245604991912842,58.75
+Tunisia,Middle East & North Africa,2014,3860.0,4.763594627380371,58.75
+Tunisia,Middle East & North Africa,2015,3860.0,5.1316118240356445,58.75
+Tunisia,Middle East & North Africa,2016,3870.0,4.521453380584717,58.75
+Tunisia,Middle East & North Africa,2017,3900.0,4.124342918395996,58.75
+Tunisia,Middle East & North Africa,2018,3950.0,4.7411322593688965,58.75
+Tunisia,Middle East & North Africa,2019,3950.0,4.315479755401611,67.5
+Tunisia,Middle East & North Africa,2020,3570.0,4.73081111907959,67.5
+Turkey,Europe & Central Asia,2005,7740.0,4.718733787536621,68.125
+Turkey,Europe & Central Asia,2007,8480.0,5.623471736907959,76.875
+Turkey,Europe & Central Asia,2008,8450.0,5.118231773376465,76.875
+Turkey,Europe & Central Asia,2009,7940.0,5.212841510772705,80.0
+Turkey,Europe & Central Asia,2010,8490.0,5.490347385406494,80.0
+Turkey,Europe & Central Asia,2011,9300.0,5.271944046020508,80.0
+Turkey,Europe & Central Asia,2012,9590.0,5.309076309204102,80.0
+Turkey,Europe & Central Asia,2013,10200.0,4.888177394866943,80.0
+Turkey,Europe & Central Asia,2014,10500.0,5.579794406890869,80.0
+Turkey,Europe & Central Asia,2015,11000.0,5.51446533203125,80.0
+Turkey,Europe & Central Asia,2016,11200.0,5.326221942901611,82.5
+Turkey,Europe & Central Asia,2017,11800.0,5.607262134552002,82.5
+Turkey,Europe & Central Asia,2018,12000.0,5.185689449310303,82.5
+Turkey,Europe & Central Asia,2019,12000.0,4.872073650360107,82.5
+Turkey,Europe & Central Asia,2020,12000.0,4.861554145812988,82.5
+Uganda,Sub-Saharan Africa,2006,653.0,3.733583927154541,46.875
+Uganda,Sub-Saharan Africa,2007,685.0,4.455838680267334,65.0
+Uganda,Sub-Saharan Africa,2008,722.0,4.568619251251221,67.5
+Uganda,Sub-Saharan Africa,2009,747.0,4.611985683441162,67.5
+Uganda,Sub-Saharan Africa,2010,764.0,4.192882061004639,67.5
+Uganda,Sub-Saharan Africa,2011,810.0,4.826001167297363,70.0
+Uganda,Sub-Saharan Africa,2012,815.0,4.309237957000732,70.0
+Uganda,Sub-Saharan Africa,2013,817.0,3.7095787525177,70.0
+Uganda,Sub-Saharan Africa,2014,831.0,3.7699191570281982,70.0
+Uganda,Sub-Saharan Africa,2015,844.0,4.237686634063721,70.0
+Uganda,Sub-Saharan Africa,2016,852.0,4.2332611083984375,70.0
+Uganda,Sub-Saharan Africa,2017,852.0,4.000516891479492,70.0
+Uganda,Sub-Saharan Africa,2018,872.0,4.321714878082275,70.0
+Uganda,Sub-Saharan Africa,2019,898.0,4.948051452636719,70.0
+Uganda,Sub-Saharan Africa,2020,894.0,4.640909671783447,73.125
+Ukraine,Europe & Central Asia,2006,2980.0,4.803954124450684,66.875
+Ukraine,Europe & Central Asia,2007,3230.0,5.252181529998779,73.125
+Ukraine,Europe & Central Asia,2008,3320.0,5.172380447387695,73.125
+Ukraine,Europe & Central Asia,2009,2840.0,5.165639400482178,73.125
+Ukraine,Europe & Central Asia,2010,2970.0,5.05756139755249,75.625
+Ukraine,Europe & Central Asia,2011,3140.0,5.083132743835449,75.625
+Ukraine,Europe & Central Asia,2012,3150.0,5.030342102050781,75.625
+Ukraine,Europe & Central Asia,2013,3160.0,4.7108025550842285,75.625
+Ukraine,Europe & Central Asia,2014,3120.0,4.297329902648926,78.75
+Ukraine,Europe & Central Asia,2015,2830.0,3.964542865753174,76.25
+Ukraine,Europe & Central Asia,2016,2900.0,4.028690338134766,76.25
+Ukraine,Europe & Central Asia,2017,2990.0,4.3110671043396,76.25
+Ukraine,Europe & Central Asia,2018,3110.0,4.661909103393555,76.25
+Ukraine,Europe & Central Asia,2019,3220.0,4.7017621994018555,79.375
+Ukraine,Europe & Central Asia,2020,3120.0,5.2696757316589355,79.375
+United Arab Emirates,Middle East & North Africa,2006,51200.0,6.734221935272217,26.875
+United Arab Emirates,Middle East & North Africa,2009,34600.0,6.866062641143799,26.875
+United Arab Emirates,Middle East & North Africa,2010,32600.0,7.0974555015563965,26.875
+United Arab Emirates,Middle East & North Africa,2011,33300.0,7.118701457977295,26.875
+United Arab Emirates,Middle East & North Africa,2012,34000.0,7.217766761779785,26.875
+United Arab Emirates,Middle East & North Africa,2013,35500.0,6.620951175689697,26.875
+United Arab Emirates,Middle East & North Africa,2014,37000.0,6.539854526519775,26.875
+United Arab Emirates,Middle East & North Africa,2015,38700.0,6.568397521972656,26.875
+United Arab Emirates,Middle East & North Africa,2016,39400.0,6.8309502601623535,26.875
+United Arab Emirates,Middle East & North Africa,2017,39800.0,7.039419651031494,26.875
+United Arab Emirates,Middle East & North Africa,2018,39700.0,6.603743553161621,26.875
+United Arab Emirates,Middle East & North Africa,2019,39800.0,6.710782527923584,30.0
+United Kingdom,High income: OECD,2005,42800.0,6.983556747436523,88.75
+United Kingdom,High income: OECD,2007,44300.0,6.801930904388428,91.875
+United Kingdom,High income: OECD,2008,43900.0,6.98646354675293,91.875
+United Kingdom,High income: OECD,2009,41700.0,6.9065470695495605,91.875
+United Kingdom,High income: OECD,2010,42300.0,7.029364109039307,91.875
+United Kingdom,High income: OECD,2011,42500.0,6.869248867034912,95.0
+United Kingdom,High income: OECD,2012,42800.0,6.880784034729004,95.0
+United Kingdom,High income: OECD,2013,43400.0,6.918055057525635,95.0
+United Kingdom,High income: OECD,2014,44300.0,6.758147716522217,95.0
+United Kingdom,High income: OECD,2015,45000.0,6.515445232391357,95.0
+United Kingdom,High income: OECD,2016,45500.0,6.824283599853516,97.5
+United Kingdom,High income: OECD,2017,45900.0,7.103273391723633,97.5
+United Kingdom,High income: OECD,2018,46200.0,7.233445167541504,97.5
+United Kingdom,High income: OECD,2019,46600.0,7.157151222229004,97.5
+United Kingdom,High income: OECD,2020,41800.0,6.798177242279053,97.5
+United States,High income: OECD,2006,53800.0,7.181793689727783,83.75
+United States,High income: OECD,2007,54300.0,7.512687683105469,83.75
+United States,High income: OECD,2008,53700.0,7.280385971069336,83.75
+United States,High income: OECD,2009,51900.0,7.158032417297363,83.75
+United States,High income: OECD,2010,52800.0,7.163616180419922,83.75
+United States,High income: OECD,2011,53200.0,7.115138530731201,83.75
+United States,High income: OECD,2012,54000.0,7.026226997375488,83.75
+United States,High income: OECD,2013,54600.0,7.2492852210998535,83.75
+United States,High income: OECD,2014,55600.0,7.151114463806152,83.75
+United States,High income: OECD,2015,56900.0,6.863946914672852,83.75
+United States,High income: OECD,2016,57400.0,6.803599834442139,83.75
+United States,High income: OECD,2017,58400.0,6.991759300231934,83.75
+United States,High income: OECD,2018,59800.0,6.882684707641602,83.75
+United States,High income: OECD,2019,60800.0,6.943701267242432,91.25
+United States,High income: OECD,2020,58500.0,7.028088092803955,91.25
+Uruguay,Latin America & Caribbean,2006,10600.0,5.785868167877197,71.25
+Uruguay,Latin America & Caribbean,2007,11200.0,5.69394588470459,71.25
+Uruguay,Latin America & Caribbean,2008,12000.0,5.663869857788086,71.25
+Uruguay,Latin America & Caribbean,2009,12500.0,6.296222686767578,71.25
+Uruguay,Latin America & Caribbean,2010,13400.0,6.062010765075684,76.875
+Uruguay,Latin America & Caribbean,2011,14100.0,6.554047107696533,83.125
+Uruguay,Latin America & Caribbean,2012,14500.0,6.449728488922119,83.125
+Uruguay,Latin America & Caribbean,2013,15200.0,6.444464683532715,83.125
+Uruguay,Latin America & Caribbean,2014,15600.0,6.56144380569458,83.125
+Uruguay,Latin America & Caribbean,2015,15600.0,6.628080368041992,85.625
+Uruguay,Latin America & Caribbean,2016,15800.0,6.171485424041748,85.625
+Uruguay,Latin America & Caribbean,2017,16000.0,6.336009979248047,85.625
+Uruguay,Latin America & Caribbean,2018,16000.0,6.3717145919799805,85.625
+Uruguay,Latin America & Caribbean,2019,16000.0,6.600337028503418,88.75
+Uruguay,Latin America & Caribbean,2020,15000.0,6.309681415557861,88.75
+Uzbekistan,Europe & Central Asia,2006,1550.0,5.2323222160339355,67.5
+Uzbekistan,Europe & Central Asia,2008,1800.0,5.311368465423584,67.5
+Uzbekistan,Europe & Central Asia,2009,1910.0,5.260720729827881,67.5
+Uzbekistan,Europe & Central Asia,2010,2000.0,5.09534215927124,67.5
+Uzbekistan,Europe & Central Asia,2011,2100.0,5.738744258880615,67.5
+Uzbekistan,Europe & Central Asia,2012,2220.0,6.019331932067871,64.375
+Uzbekistan,Europe & Central Asia,2013,2350.0,5.939986228942871,64.375
+Uzbekistan,Europe & Central Asia,2014,2480.0,6.049212455749512,64.375
+Uzbekistan,Europe & Central Asia,2015,2620.0,5.97236442565918,64.375
+Uzbekistan,Europe & Central Asia,2016,2730.0,5.892539024353027,64.375
+Uzbekistan,Europe & Central Asia,2017,2800.0,6.42144775390625,64.375
+Uzbekistan,Europe & Central Asia,2018,2900.0,6.205460071563721,64.375
+Uzbekistan,Europe & Central Asia,2019,3010.0,6.154049396514893,64.375
+Vietnam,East Asia & Pacific,2006,1350.0,5.293659687042236,64.375
+Vietnam,East Asia & Pacific,2007,1430.0,5.421687602996826,64.375
+Vietnam,East Asia & Pacific,2008,1500.0,5.4804253578186035,67.5
+Vietnam,East Asia & Pacific,2009,1560.0,5.304264545440674,70.0
+Vietnam,East Asia & Pacific,2010,1650.0,5.295780658721924,70.0
+Vietnam,East Asia & Pacific,2011,1730.0,5.7673444747924805,70.0
+Vietnam,East Asia & Pacific,2012,1810.0,5.53456974029541,70.0
+Vietnam,East Asia & Pacific,2013,1880.0,5.022698879241943,70.0
+Vietnam,East Asia & Pacific,2014,1980.0,5.084923267364502,76.25
+Vietnam,East Asia & Pacific,2015,2090.0,5.076315402984619,76.25
+Vietnam,East Asia & Pacific,2016,2190.0,5.062267303466797,76.25
+Vietnam,East Asia & Pacific,2017,2320.0,5.175278663635254,78.75
+Vietnam,East Asia & Pacific,2018,2460.0,5.295547008514404,78.75
+Vietnam,East Asia & Pacific,2019,2600.0,5.467451095581055,78.75
+Yemen,Middle East & North Africa,2007,2550.0,4.477132797241211,23.75
+Yemen,Middle East & North Africa,2009,2600.0,4.809258937835693,26.875
+Yemen,Middle East & North Africa,2010,2720.0,4.35031270980835,26.875
+Yemen,Middle East & North Africa,2011,2310.0,3.74625563621521,26.875
+Yemen,Middle East & North Africa,2012,2300.0,4.060600757598877,26.875
+Yemen,Middle East & North Africa,2013,2350.0,4.217678546905518,26.875
+Yemen,Middle East & North Africa,2014,2280.0,3.9679579734802246,26.875
+Yemen,Middle East & North Africa,2015,1600.0,2.9826738834381104,26.875
+Yemen,Middle East & North Africa,2016,1420.0,3.8256309032440186,26.875
+Yemen,Middle East & North Africa,2017,1310.0,3.2535600662231445,26.875
+Yemen,Middle East & North Africa,2018,1290.0,3.057513952255249,26.875
+Zambia,Sub-Saharan Africa,2006,965.0,4.8244547843933105,60.625
+Zambia,Sub-Saharan Africa,2007,1020.0,3.998293161392212,60.625
+Zambia,Sub-Saharan Africa,2008,1070.0,4.7302632331848145,60.625
+Zambia,Sub-Saharan Africa,2009,1130.0,5.2603607177734375,60.625
+Zambia,Sub-Saharan Africa,2011,1240.0,4.9991135597229,60.625
+Zambia,Sub-Saharan Africa,2012,1300.0,5.0133748054504395,60.625
+Zambia,Sub-Saharan Africa,2013,1320.0,5.243995666503906,63.125
+Zambia,Sub-Saharan Africa,2014,1340.0,4.345837116241455,63.125
+Zambia,Sub-Saharan Africa,2015,1340.0,4.843164443969727,63.125
+Zambia,Sub-Saharan Africa,2016,1350.0,4.347543716430664,63.125
+Zambia,Sub-Saharan Africa,2017,1350.0,3.9327774047851562,78.75
+Zambia,Sub-Saharan Africa,2018,1370.0,4.041488170623779,78.75
+Zambia,Sub-Saharan Africa,2019,1350.0,3.3067965507507324,78.75
+Zambia,Sub-Saharan Africa,2020,1270.0,4.837992191314697,81.25
+Zimbabwe,Sub-Saharan Africa,2006,1090.0,3.826268434524536,78.75
+Zimbabwe,Sub-Saharan Africa,2007,1040.0,3.2802467346191406,84.375
+Zimbabwe,Sub-Saharan Africa,2008,850.0,3.1742637157440186,86.875
+Zimbabwe,Sub-Saharan Africa,2009,941.0,4.055914402008057,86.875
+Zimbabwe,Sub-Saharan Africa,2010,1110.0,4.681569576263428,86.875
+Zimbabwe,Sub-Saharan Africa,2011,1250.0,4.845641613006592,86.875
+Zimbabwe,Sub-Saharan Africa,2012,1430.0,4.9551005363464355,86.875
+Zimbabwe,Sub-Saharan Africa,2013,1440.0,4.690187931060791,86.875
+Zimbabwe,Sub-Saharan Africa,2014,1440.0,4.184450626373291,86.875
+Zimbabwe,Sub-Saharan Africa,2015,1450.0,3.7031912803649902,86.875
+Zimbabwe,Sub-Saharan Africa,2016,1430.0,3.7354001998901367,86.875
+Zimbabwe,Sub-Saharan Africa,2017,1480.0,3.6383001804351807,86.875
+Zimbabwe,Sub-Saharan Africa,2018,1510.0,3.6164798736572266,86.875
+Zimbabwe,Sub-Saharan Africa,2019,1370.0,2.6935231685638428,86.875
+Zimbabwe,Sub-Saharan Africa,2020,1240.0,3.159802198410034,86.875

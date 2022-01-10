@@ -41,9 +41,34 @@ def get_ind_comments():
 indicadores_text = {key:value for key,value in get_ind_comments()}
 
 app = dash.Dash(__name__)
+app.title = "WBL Index - José Ventura"
 server = app.server
 
-markdown_text = """
+felicidad_text="""
+# Índice de felicidad
+
+### ¿Qué preguntas nos hacemos?
+Después de un periodo de noticias y situaciones apocalípticas, parece que 
+una buena forma de romper la tendencia negativa es analizar la felicidad 
+y cómo ha cambiado el mundo en los últimos. El fín último era contestar a 
+la pregunta: **¿El mundo puede ser feliz si la mitad de la población (Mujeres) 
+no tienen libertad?**
+
+No tenemos suficientes datos para contestar esta pregunta, en la 
+[PEC3](https://public.flourish.studio/story/1067848/) analizé algunos aspectos
+de la felicidad en el mundo, pero no se analizó la correlación entre la felicidad
+y la libertad de las mujeres.  
+
+### ¿Cómo medimos el índice de libertad de la mujer?
+[El Banco Mundial](https://www.bancomundial.org/es/home) lanza muchas iniciativas que 
+ponen a disposición pública datos socio-económicos de interés para investigadores. Una
+de estas iniciativas es el índice [WBL (Women, Business and the Law)](https://wbl.worldbank.org/en/wbl)
+
+Como punto de partida se analiza la correlación entre este índice con el índice de
+felicidad (expuesto en la [PEC3](https://public.flourish.studio/story/1067848/)) y
+con la Renta per cápita. A continuación mostramos los dos gráficos:
+"""
+header_text = """
 # WBL Index
 [**(Women, Business and the Law)**](https://wbl.worldbank.org/en/wbl). 
 Este índice valora  entre 0 y 100 el trato igualitario que recibe
@@ -51,6 +76,30 @@ la mujer en las leyes y regulaciones de los 190 países analizados.
 Incluye 9 indicadores que valoran distintos aspectos que afectan a 
 la igualdad entre hombres y mujeres
 """
+sources_text="""
+#### Fuentes:
+* **Índice de felicidad:** Helliwell, John F., Richard Layard, Jeffrey 
+  Sachs, and Jan-Emmanuel De Neve, eds. 2021. World Happiness Report 2021. 
+  New York: Sustainable Development Solutions Network.
+* **WBL Index:** World Bank. 2021. Women, Business and the Law 2021. 
+  Washington, DC: World Bank. © World Bank. 
+  https://openknowledge.worldbank.org/handle/10986/35094 
+  License: CC BY 3.0 IGO.
+* **Régimen de gobierno:** Bell, Curtis, Besaw, Clayton., Frank, 
+  Matthew. 2021. The Rulers, Elections, and Irregular Governance
+  (REIGN) Dataset. Broomfield, CO: One Earth Future. Available 
+  at https://oefdatascience.github.io/REIGN.github.io/
+"""
+panel_correlacion = html.Div([
+    html.Div([
+        dcc.Graph(id="corr_gdp")
+    ],style={'width': '50%', 'display': 'inline-block'}),
+    html.Div([
+        dcc.Graph(id="corr_life")
+    ],style={'width': '50%', 'display': 'inline-block'
+             }),
+])
+
 box_style = {"border": "1px solid #000", "borderRadius":5}
 
 check_gobiernos = html.Div([
@@ -118,7 +167,7 @@ panel_indicadores = html.Div([
 ],style=box_style_small)
 
 panel_izq = html.Div([
-    dcc.Markdown(children=markdown_text),
+    dcc.Markdown(children=header_text),
     html.Br(),
     check_gobiernos,
     html.Br(),
@@ -130,17 +179,51 @@ panel_izq = html.Div([
              'vertical-align': 'top'
              }
 )
+
 panel_der = html.Div([
     dcc.Graph(id="choropleth")
     ],style={'width': '68%', 'display': 'inline-block'}
 )
 
+def div_chart(id):
+    code = """
+    <iframe src='https://flo.uri.sh/visualisation/{}/embed' title='Interactive or visual content' class='flourish-embed-iframe' frameborder='0' scrolling='no' style='width:100%;height:100%;' sandbox='allow-same-origin allow-forms allow-scripts allow-downloads allow-popups allow-popups-to-escape-sandbox allow-top-navigation-by-user-activation'></iframe><div style='width:100%!;margin-top:4px!important;text-align:right!important;'><a class='flourish-credit' href='https://public.flourish.studio/visualisation/{}/?utm_source=embed&utm_campaign=visualisation/{}' target='_top' style='text-decoration:none!important'><img alt='Made with Flourish' src='https://public.flourish.studio/resources/made_with_flourish.svg' style='width:300px!important;height:16px!important;border:none!important;margin:0!important;'> </a></div>        """.format(id, id, id)
+    return html.Div([html.Iframe(srcDoc=code)])
+
+def embed_chart(id):
+    return html.Div([
+        html.Embed(src="https://public.flourish.studio/visualisation/8138194/",
+                      className="flourish-embed-iframe",
+                      frameborder='0'
+                      )
+    ],style={'width': '68%', 'display': 'inline-block'})
+    
 app.layout = html.Div([
+    dcc.Markdown(children=felicidad_text),
+    panel_correlacion,
     panel_izq,
-    panel_der
+    panel_der,
+    dcc.Markdown(children=sources_text)
     ])
 
+felicidad = pd.read_csv('data/data_to_gdp_felicidad_wbl.csv')
+def graph_corr (df=felicidad, x="Life ladder", 
+                              xlabel="Índice de felicidad",
+                              y="WBL index",
+                              ylabel="Índice WBL"):
+    return px.scatter(
+        df, y=y, x=x, 
+        title="Gráfico de dispersión",
+        labels={x: xlabel,
+                y: ylabel},
+        animation_frame="Year", #color="Region",
+        opacity=0.4,
+        trendline_color_override="red", trendline="lowess")
+
+
 @app.callback(
+    Output("corr_gdp", "figure"),
+    Output("corr_life", "figure"),
     Output("choropleth", "figure"),
     Output("indicador_comment", "children"),
     Input("gobiernos", "value"),
@@ -155,31 +238,17 @@ def multi_output(gobiernos, income, indicador):
     df_fil = df
 
     if len(gobiernos) < 2:
-        elected = gobiernos[0]=="D"
-        df_fil = df_fil.loc[df.regime_elected==elected]
+        if len(gobiernos)<1:
+            df_fil = df_fil.iloc[:1][df_fil['Año']>3000]
+        else:
+            elected = gobiernos[0]=="D"
+            df_fil = df_fil.loc[df.regime_elected==elected]
 
     if len(income)<4:
         df_fil = df_fil.loc[df.Income.isin(income)]
-#WBL INDEX,MOBILITY,PAY,WORKPLACE,MARRIAGE,PARENTHOOD,ENTREPRENEURSHIP,ASSETS,PENSION,regime_elected,Income,region_income,region_elected,income_elected,hombres,mujeres
+
     df_fil.sort_values("Año", inplace=True)
-    fig = px.choropleth(df_fil,
-        locations="iso3c", 
-        color=indicador,
-        hover_name="economy",
-        hover_data=["Hombres", "Mujeres"],
-        animation_frame="Año",
-        color_continuous_scale=['red', 'yellow', 'green'],
-        range_color=[0, 100],
-        title=str(df_fil["Año"].min())
-    )
-    fig.update_geos(
-        fitbounds="locations",
-        projection_type="miller",
-        visible=False, 
-        showcountries=True, countrycolor="black",
-        showland=True, landcolor="#CCCCCC",
-        #lataxis={"range":[90,30]}
-    )
+
     sliders=[dict(
         currentvalue={"prefix": "Año: "},
         pad={'t':0}
@@ -201,21 +270,57 @@ def multi_output(gobiernos, income, indicador):
             size=60
         )
     )
-    fig.update_layout(height=600,
+    label_ind = ""
+    for ind in indicadores:
+        if ind['value']==indicador:
+            label_ind = ind['label']
+
+
+    if df_fil.shape[0]==0:
+        mapa = px.choropleth(df_fil,
+            locations="iso3c"
+            )
+    else:
+        mapa = px.choropleth(df_fil,
+            locations="iso3c", 
+            color=indicador,
+            hover_name="economy",
+            hover_data=["Hombres", "Mujeres"],
+            animation_frame="Año",
+            color_continuous_scale=['purple','red', 'yellow', 'green'],
+            range_color=[0, 100],
+            title=str(df_fil["Año"].min())
+            )
+    mapa.update_geos(
+        fitbounds="locations",
+        projection_type="natural earth",
+        visible=False, 
+        showcountries=True, countrycolor="black",
+        showland=True, landcolor="#CCCCCC",
+        #lataxis={"range":[90,30]}
+    )
+
+
+    mapa.update_layout(height=600,
                       margin={"r": 0, "t": 0, "l": 0, "b": 0},
                       title=title,
+                      coloraxis_colorbar=dict(
+                          title=label_ind
+                      ),
                       sliders=sliders,
                       updatemenus=updatemenus
                       )
 
     years = df_fil['Año'].unique()
-    for i, frame in enumerate(fig.frames):
+    for i, frame in enumerate(mapa.frames):
         frame.layout.title = str(years[i])
     
-    for step in fig.layout.sliders[0].steps:
+    for step in mapa.layout.sliders[0].steps:
         step["args"][1]["frame"]["redraw"] = True
 
-    return fig, indicadores_text[indicador]
+    return (graph_corr(), graph_corr(x="GDPpc", xlabel="Renta per cápita"), 
+            mapa, indicadores_text[indicador]
+    )
 
 if __name__ == '__main__':
     app.run_server(debug=True)
