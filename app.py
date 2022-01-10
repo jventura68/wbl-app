@@ -218,6 +218,7 @@ app.layout = html.Div([
     ])
 
 felicidad = pd.read_csv('data/data_to_gdp_felicidad_wbl.csv')
+felicidad.sort_values("Year", inplace=True)
 def graph_corr (df=felicidad, x="Life ladder", 
                               xlabel="Índice de felicidad",
                               y="WBL index",
